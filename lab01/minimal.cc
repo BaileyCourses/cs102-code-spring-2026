@@ -1,1 +1,7 @@
-Folder and files for lab01
+#include <iostream>
+
+using namespace std;
+
+int main() {
+
+}
