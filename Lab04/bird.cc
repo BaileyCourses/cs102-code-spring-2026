@@ -13,7 +13,7 @@ bool string_at_index(string text, string substring, int index) {
         return false;
 
     // Check character by character
-    for (int i = 0; i < substring.length(); i++) {  // some students had to change to size_t and replace int
+    for (size_t i = 0; i < substring.length(); i++) {  
         if (text[i + index] != substring[i])
             return false;
     }
@@ -24,8 +24,8 @@ bool string_at_index(string text, string substring, int index) {
 /**
  * @brief True if substring is a substring of text
  */
-bool contains_substring(string text, string substring) { // some students had to change to size_t and replace int
-    for (int i = 0; i < text.length(); i++) {
+bool contains_substring(string text, string substring) { 
+    for (size_t i = 0; i < text.length(); i++) {
         if (string_at_index(text, substring, i))
             return true;
     }
