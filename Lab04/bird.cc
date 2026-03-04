@@ -2,7 +2,7 @@
 
 using namespace std;
 
-const int MAX_BIRDS = 1000;
+const int MAX_BIRDS = 1000; 
 
 /**
  * @brief True if substring is the substring at index index in text
