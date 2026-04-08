@@ -1,0 +1,12 @@
+enqueue 281
+enqueue -47
+enqueue 91
+enqueue -604
+dequeue
+front
+enqueue 14
+enqueue 999
+dequeue
+dequeue
+front
+enqueue -450

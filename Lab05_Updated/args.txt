@@ -1,0 +1,49 @@
+void test_from_file(string file_name) {
+    ifstream the_file(file_name);
+
+    if (!the_file.is_open()) {
+        cout << "File not found: " << file_name << endl;
+        throw invalid_argument("File not found: " + file_name);
+    }
+
+    Queue q;
+    string command;
+
+    while (the_file >> command) {
+        if (command == "enqueue") {
+            int item = 0;
+            the_file >> item;
+            q.enqueue(to_string(item));
+
+        }
+        else if (command == "dequeue") {
+            q.dequeue();
+           
+        }
+        else if (command == "front") {
+            string item = q.front(); 
+            cout << "Front " << item << endl;
+        }
+        else {
+            cout << "ERROR: Incorrect command: " << command << endl;
+        }
+    }
+
+    cout << "At the end, the front item is: " << q.front() << endl;
+    }
+
+
+int main(int argc, char ** argv) {
+    
+     // 1. Check if a filename was provided
+    if (argc < 2) {
+        std::cerr << "Usage: " << argv[0] << " <filename>" << std::endl;
+        return 1;
+    }
+
+    // 2. Open the file using the argument provided in argv[1]
+    string file_name = argv[1];
+    test_from_file(file_name);
+    
+    return 0;
+}

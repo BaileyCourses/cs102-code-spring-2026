@@ -1,0 +1,8192 @@
+enqueue -152
+enqueue 333
+enqueue 916
+enqueue 47
+enqueue -947
+enqueue 701
+enqueue -560
+enqueue -59
+enqueue 344
+enqueue -516
+enqueue -165
+enqueue -389
+enqueue 899
+enqueue 353
+enqueue -850
+enqueue 824
+enqueue 584
+dequeue
+enqueue 577
+enqueue -967
+enqueue -635
+dequeue
+enqueue -234
+enqueue -944
+enqueue 25
+dequeue
+enqueue 788
+enqueue -200
+enqueue -496
+dequeue
+enqueue 264
+enqueue -277
+dequeue
+front
+enqueue 142
+dequeue
+enqueue 87
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue -424
+dequeue
+dequeue
+dequeue
+enqueue 287
+enqueue 938
+enqueue 727
+enqueue 128
+enqueue 521
+dequeue
+enqueue -200
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue -927
+dequeue
+enqueue -28
+enqueue -747
+enqueue 97
+enqueue 746
+dequeue
+enqueue 166
+enqueue 142
+enqueue -615
+enqueue -471
+enqueue 159
+enqueue 812
+dequeue
+enqueue -824
+enqueue 178
+enqueue -104
+dequeue
+dequeue
+enqueue -831
+dequeue
+enqueue -170
+dequeue
+enqueue 348
+enqueue -340
+enqueue 231
+enqueue 301
+dequeue
+enqueue 487
+enqueue -679
+enqueue 530
+enqueue 664
+enqueue -6
+enqueue 449
+enqueue -566
+enqueue 416
+enqueue 474
+enqueue -657
+enqueue 638
+dequeue
+enqueue 754
+enqueue -120
+enqueue -288
+enqueue -872
+dequeue
+dequeue
+enqueue -292
+enqueue 504
+dequeue
+enqueue 917
+enqueue 281
+dequeue
+dequeue
+enqueue -932
+enqueue -531
+enqueue 842
+enqueue 960
+enqueue 945
+enqueue -925
+enqueue 870
+dequeue
+enqueue -752
+enqueue -963
+enqueue 288
+enqueue -321
+dequeue
+enqueue 628
+enqueue 773
+enqueue -971
+dequeue
+dequeue
+dequeue
+enqueue -960
+dequeue
+enqueue -128
+enqueue 916
+dequeue
+enqueue -156
+dequeue
+dequeue
+enqueue -809
+enqueue -98
+enqueue -779
+enqueue -519
+enqueue -900
+enqueue 750
+dequeue
+dequeue
+dequeue
+enqueue 155
+enqueue -198
+enqueue -247
+enqueue -141
+enqueue 650
+enqueue 356
+dequeue
+enqueue -345
+enqueue -979
+dequeue
+enqueue 935
+enqueue 450
+enqueue 245
+enqueue -571
+dequeue
+dequeue
+enqueue 958
+dequeue
+dequeue
+enqueue -679
+enqueue -590
+enqueue -230
+dequeue
+enqueue -246
+enqueue 439
+enqueue 875
+enqueue 565
+enqueue 157
+enqueue -732
+enqueue -337
+enqueue -289
+enqueue 368
+enqueue -314
+dequeue
+enqueue -299
+dequeue
+enqueue 319
+enqueue 334
+enqueue -817
+enqueue -783
+enqueue -836
+enqueue 34
+enqueue 797
+enqueue -944
+dequeue
+dequeue
+dequeue
+enqueue -680
+dequeue
+dequeue
+enqueue -681
+enqueue -171
+enqueue 753
+enqueue 920
+enqueue -308
+enqueue 694
+enqueue 599
+enqueue 671
+enqueue 586
+dequeue
+enqueue 565
+enqueue -923
+enqueue -273
+dequeue
+dequeue
+enqueue 132
+dequeue
+enqueue 269
+enqueue 45
+enqueue -673
+dequeue
+dequeue
+dequeue
+enqueue -902
+enqueue 313
+dequeue
+dequeue
+enqueue -528
+enqueue -244
+dequeue
+enqueue -143
+enqueue 922
+enqueue -209
+enqueue 608
+enqueue 312
+enqueue -793
+enqueue 704
+dequeue
+enqueue -664
+enqueue -312
+enqueue 955
+enqueue -8
+enqueue -234
+enqueue -511
+enqueue -373
+enqueue -110
+enqueue 607
+enqueue 766
+enqueue 820
+enqueue -139
+enqueue 981
+dequeue
+enqueue 534
+enqueue 813
+dequeue
+enqueue -493
+enqueue -18
+enqueue -368
+enqueue -196
+enqueue -333
+enqueue -818
+enqueue 231
+dequeue
+enqueue -671
+enqueue 587
+enqueue -358
+enqueue 739
+enqueue 607
+dequeue
+enqueue 773
+enqueue 710
+enqueue 338
+enqueue -506
+enqueue -604
+enqueue 185
+enqueue -257
+enqueue 911
+enqueue 503
+enqueue -114
+dequeue
+dequeue
+enqueue 819
+dequeue
+enqueue -33
+enqueue -288
+enqueue -834
+dequeue
+dequeue
+dequeue
+enqueue -808
+enqueue 492
+enqueue -432
+enqueue -133
+enqueue -537
+enqueue -704
+enqueue 875
+enqueue -378
+enqueue -966
+dequeue
+dequeue
+enqueue 689
+enqueue -853
+enqueue 138
+enqueue 778
+enqueue -628
+enqueue 940
+dequeue
+enqueue 226
+dequeue
+enqueue 595
+dequeue
+enqueue -59
+dequeue
+enqueue -189
+enqueue -371
+enqueue 561
+dequeue
+enqueue -844
+enqueue 333
+dequeue
+enqueue -451
+enqueue 741
+dequeue
+enqueue -632
+enqueue -701
+enqueue -124
+dequeue
+enqueue -156
+enqueue -345
+enqueue 356
+dequeue
+enqueue 337
+enqueue -500
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 959
+enqueue -335
+enqueue 84
+dequeue
+enqueue 303
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 21
+enqueue 209
+enqueue 529
+enqueue 22
+enqueue 371
+enqueue -190
+dequeue
+enqueue 521
+dequeue
+dequeue
+enqueue -1000
+dequeue
+enqueue 391
+enqueue -529
+dequeue
+enqueue 145
+enqueue -57
+enqueue -673
+enqueue 202
+enqueue -344
+enqueue -649
+enqueue -657
+dequeue
+enqueue 630
+dequeue
+dequeue
+enqueue 882
+enqueue 729
+enqueue 144
+enqueue -900
+enqueue 158
+dequeue
+enqueue 262
+enqueue -262
+enqueue 645
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 439
+enqueue 833
+enqueue -637
+enqueue -514
+enqueue 849
+enqueue -892
+enqueue -498
+dequeue
+dequeue
+enqueue -689
+dequeue
+enqueue 710
+enqueue -752
+enqueue 442
+enqueue 474
+enqueue 954
+dequeue
+enqueue 362
+enqueue -144
+enqueue 638
+enqueue -21
+enqueue -40
+dequeue
+enqueue -281
+enqueue -260
+enqueue 264
+enqueue -21
+enqueue 975
+enqueue -987
+enqueue -306
+enqueue 479
+enqueue 72
+enqueue -939
+enqueue 287
+dequeue
+dequeue
+dequeue
+enqueue -785
+dequeue
+dequeue
+dequeue
+enqueue -203
+enqueue -568
+dequeue
+enqueue 818
+enqueue -53
+enqueue -550
+enqueue -110
+dequeue
+enqueue -476
+enqueue 351
+dequeue
+enqueue -622
+enqueue -123
+enqueue -707
+enqueue -937
+enqueue 677
+enqueue -296
+dequeue
+enqueue -182
+enqueue -503
+dequeue
+dequeue
+enqueue -952
+enqueue -65
+enqueue -850
+enqueue 31
+enqueue 61
+dequeue
+enqueue -522
+enqueue -659
+enqueue -398
+enqueue -631
+dequeue
+enqueue -322
+enqueue -505
+enqueue -38
+enqueue 824
+enqueue 661
+enqueue -536
+enqueue 643
+dequeue
+dequeue
+enqueue 84
+enqueue 941
+dequeue
+enqueue -774
+enqueue -594
+enqueue -766
+dequeue
+dequeue
+enqueue -811
+enqueue 747
+dequeue
+enqueue -170
+dequeue
+enqueue 619
+enqueue 175
+enqueue -949
+dequeue
+enqueue 452
+dequeue
+dequeue
+dequeue
+enqueue -482
+dequeue
+dequeue
+enqueue 943
+dequeue
+dequeue
+dequeue
+enqueue 834
+dequeue
+enqueue -931
+enqueue -617
+enqueue -550
+dequeue
+dequeue
+enqueue 906
+enqueue 332
+enqueue -457
+enqueue 728
+dequeue
+dequeue
+enqueue 335
+enqueue 865
+dequeue
+dequeue
+dequeue
+enqueue 105
+enqueue 970
+dequeue
+dequeue
+enqueue 101
+enqueue 589
+enqueue -928
+enqueue 126
+dequeue
+enqueue 453
+dequeue
+enqueue -869
+dequeue
+dequeue
+enqueue -660
+enqueue -108
+enqueue -163
+dequeue
+enqueue 623
+dequeue
+dequeue
+enqueue 699
+enqueue -105
+enqueue -98
+enqueue -431
+enqueue -61
+enqueue 192
+enqueue -706
+enqueue 810
+enqueue 10
+enqueue 676
+enqueue -660
+enqueue -18
+enqueue 808
+dequeue
+enqueue -56
+enqueue 901
+enqueue 86
+enqueue -920
+dequeue
+enqueue 581
+dequeue
+enqueue 812
+enqueue -779
+enqueue -376
+enqueue 191
+enqueue -408
+enqueue -89
+enqueue -39
+enqueue 59
+enqueue -881
+dequeue
+enqueue 319
+enqueue -617
+enqueue 638
+enqueue 487
+dequeue
+enqueue -714
+enqueue -997
+dequeue
+dequeue
+dequeue
+enqueue -494
+dequeue
+enqueue 35
+enqueue 931
+dequeue
+enqueue 112
+enqueue 161
+dequeue
+enqueue -989
+dequeue
+enqueue -251
+enqueue -687
+dequeue
+enqueue 377
+enqueue -322
+dequeue
+dequeue
+enqueue -851
+dequeue
+enqueue -923
+enqueue -155
+enqueue -387
+enqueue -936
+enqueue 718
+dequeue
+dequeue
+enqueue -296
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue -119
+enqueue -789
+enqueue -596
+dequeue
+enqueue 210
+enqueue -966
+enqueue 8
+enqueue -987
+enqueue 148
+enqueue 576
+enqueue 933
+enqueue 321
+enqueue 318
+dequeue
+enqueue 709
+dequeue
+enqueue 49
+dequeue
+dequeue
+enqueue 363
+enqueue -857
+enqueue 227
+dequeue
+enqueue 535
+enqueue 556
+dequeue
+enqueue 8
+dequeue
+enqueue -654
+dequeue
+dequeue
+dequeue
+enqueue 546
+enqueue 599
+dequeue
+enqueue 998
+enqueue 87
+enqueue -349
+dequeue
+enqueue -20
+enqueue 663
+enqueue -103
+enqueue 718
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue -450
+enqueue 608
+dequeue
+enqueue 162
+dequeue
+enqueue -969
+enqueue -522
+dequeue
+enqueue 67
+enqueue -65
+enqueue -456
+dequeue
+enqueue -93
+enqueue 884
+dequeue
+enqueue -359
+dequeue
+enqueue 144
+dequeue
+enqueue 717
+dequeue
+enqueue -325
+front
+enqueue -979
+dequeue
+enqueue 938
+enqueue -954
+enqueue 70
+enqueue 489
+dequeue
+enqueue 879
+enqueue 763
+dequeue
+enqueue -435
+enqueue 792
+dequeue
+enqueue 594
+enqueue -718
+enqueue -215
+dequeue
+dequeue
+enqueue 301
+enqueue 672
+dequeue
+enqueue 451
+enqueue -723
+enqueue -349
+enqueue 212
+enqueue 204
+dequeue
+enqueue -811
+enqueue -807
+dequeue
+enqueue -912
+dequeue
+enqueue 497
+enqueue -755
+enqueue -431
+enqueue 213
+dequeue
+enqueue -94
+enqueue 665
+enqueue 74
+dequeue
+dequeue
+dequeue
+enqueue 556
+enqueue -378
+enqueue 598
+enqueue -162
+dequeue
+enqueue 909
+dequeue
+enqueue 924
+enqueue 705
+enqueue 371
+dequeue
+enqueue 734
+dequeue
+dequeue
+enqueue 964
+enqueue 565
+enqueue -26
+enqueue 873
+enqueue -524
+dequeue
+dequeue
+enqueue 117
+enqueue 358
+dequeue
+enqueue 94
+enqueue 890
+enqueue -193
+enqueue 934
+enqueue -337
+enqueue 660
+enqueue 542
+enqueue 871
+enqueue -725
+enqueue 645
+enqueue -187
+enqueue -518
+dequeue
+enqueue 600
+dequeue
+enqueue -43
+enqueue 622
+dequeue
+enqueue -884
+dequeue
+enqueue -154
+enqueue 247
+dequeue
+enqueue -601
+enqueue 672
+enqueue -401
+enqueue -944
+enqueue 279
+enqueue 877
+enqueue 459
+enqueue -483
+enqueue -679
+enqueue 738
+enqueue -302
+enqueue -864
+enqueue 348
+dequeue
+dequeue
+dequeue
+enqueue 821
+enqueue -386
+enqueue -529
+enqueue 77
+enqueue 335
+dequeue
+enqueue -390
+enqueue -282
+dequeue
+dequeue
+enqueue -101
+enqueue 329
+enqueue 780
+enqueue 739
+dequeue
+enqueue -1000
+enqueue -865
+enqueue -806
+enqueue -178
+enqueue 898
+enqueue -714
+dequeue
+enqueue -911
+dequeue
+dequeue
+enqueue 490
+enqueue 171
+enqueue 424
+dequeue
+enqueue -270
+enqueue -456
+enqueue -45
+enqueue 879
+dequeue
+dequeue
+enqueue -897
+enqueue -890
+enqueue -851
+dequeue
+enqueue -939
+enqueue -392
+dequeue
+dequeue
+enqueue 734
+enqueue -592
+dequeue
+enqueue 110
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue -253
+enqueue -411
+dequeue
+enqueue -301
+enqueue -769
+dequeue
+enqueue -375
+enqueue 578
+enqueue 619
+enqueue -675
+enqueue -316
+enqueue 956
+enqueue -699
+enqueue -503
+enqueue -662
+enqueue -511
+enqueue -920
+enqueue -655
+enqueue 901
+enqueue -672
+enqueue 815
+enqueue -562
+enqueue 419
+dequeue
+enqueue -932
+enqueue 471
+enqueue -980
+dequeue
+enqueue 640
+enqueue 274
+enqueue -820
+enqueue -619
+dequeue
+enqueue -777
+enqueue 171
+dequeue
+enqueue 650
+enqueue -67
+enqueue -686
+enqueue -38
+enqueue 972
+enqueue -334
+dequeue
+enqueue -195
+enqueue 185
+enqueue 605
+dequeue
+enqueue -928
+enqueue -780
+enqueue -878
+enqueue 863
+dequeue
+enqueue -864
+dequeue
+enqueue 463
+enqueue 327
+enqueue 199
+enqueue -506
+enqueue 940
+enqueue -213
+enqueue 788
+enqueue 541
+dequeue
+dequeue
+enqueue 858
+enqueue -811
+dequeue
+enqueue 542
+enqueue 242
+dequeue
+enqueue 119
+enqueue 284
+enqueue 223
+enqueue -277
+enqueue -633
+dequeue
+enqueue -981
+enqueue -169
+dequeue
+enqueue -955
+dequeue
+enqueue -301
+enqueue 429
+enqueue -686
+enqueue 845
+dequeue
+enqueue 857
+dequeue
+enqueue 55
+enqueue -957
+dequeue
+enqueue -458
+dequeue
+enqueue -762
+dequeue
+enqueue 976
+enqueue 698
+enqueue -666
+enqueue 52
+dequeue
+dequeue
+enqueue -369
+enqueue -5
+dequeue
+enqueue -847
+enqueue 884
+enqueue 580
+enqueue -620
+enqueue -775
+enqueue -123
+enqueue 89
+enqueue -561
+enqueue 259
+enqueue 708
+enqueue 583
+enqueue -455
+enqueue 478
+enqueue 420
+dequeue
+enqueue -252
+enqueue 222
+enqueue 507
+enqueue 988
+dequeue
+enqueue 96
+enqueue -193
+enqueue 88
+enqueue -545
+dequeue
+enqueue -423
+dequeue
+enqueue 338
+enqueue -583
+enqueue 711
+enqueue -520
+enqueue 917
+dequeue
+enqueue -226
+front
+enqueue 674
+enqueue 348
+dequeue
+enqueue -77
+dequeue
+enqueue -715
+enqueue -26
+enqueue -316
+enqueue -520
+enqueue 563
+dequeue
+enqueue -518
+enqueue 866
+enqueue -603
+enqueue 326
+dequeue
+enqueue 431
+dequeue
+dequeue
+enqueue 750
+enqueue -564
+enqueue 417
+enqueue 971
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue -389
+enqueue -777
+dequeue
+dequeue
+enqueue 500
+enqueue 203
+enqueue -849
+dequeue
+enqueue 150
+enqueue -634
+dequeue
+dequeue
+enqueue 700
+enqueue -35
+enqueue 466
+enqueue 948
+dequeue
+enqueue -796
+enqueue 740
+enqueue -664
+enqueue -136
+enqueue 917
+dequeue
+dequeue
+enqueue -875
+enqueue 240
+enqueue -978
+dequeue
+enqueue 87
+enqueue -933
+enqueue -673
+dequeue
+dequeue
+dequeue
+enqueue -515
+dequeue
+enqueue -626
+dequeue
+enqueue -173
+enqueue 14
+enqueue 318
+enqueue 390
+dequeue
+dequeue
+enqueue -529
+dequeue
+enqueue -83
+enqueue 110
+enqueue -14
+enqueue -72
+enqueue 537
+enqueue 584
+enqueue 734
+enqueue 670
+dequeue
+enqueue -924
+dequeue
+dequeue
+enqueue 639
+enqueue 221
+enqueue -918
+enqueue -145
+enqueue 84
+enqueue -491
+enqueue 438
+enqueue -249
+dequeue
+dequeue
+enqueue -442
+dequeue
+enqueue 964
+dequeue
+enqueue -570
+enqueue 553
+enqueue 846
+dequeue
+enqueue 520
+enqueue 472
+enqueue 971
+enqueue 610
+enqueue 564
+enqueue -730
+dequeue
+enqueue 656
+enqueue 276
+dequeue
+dequeue
+dequeue
+enqueue 879
+dequeue
+enqueue 357
+enqueue 671
+enqueue 497
+enqueue -829
+dequeue
+enqueue -471
+enqueue -745
+enqueue -174
+enqueue 841
+dequeue
+enqueue -647
+dequeue
+dequeue
+dequeue
+enqueue 493
+enqueue 525
+dequeue
+enqueue -272
+dequeue
+enqueue 494
+enqueue -856
+dequeue
+enqueue 733
+enqueue -438
+enqueue -563
+enqueue -927
+enqueue 779
+enqueue -46
+enqueue 856
+dequeue
+enqueue 374
+enqueue -870
+dequeue
+dequeue
+enqueue 421
+enqueue 946
+enqueue -774
+dequeue
+enqueue 73
+enqueue -815
+enqueue -592
+enqueue 285
+enqueue 373
+enqueue 110
+dequeue
+dequeue
+enqueue 618
+dequeue
+enqueue 832
+enqueue 92
+dequeue
+enqueue -242
+enqueue 36
+enqueue 453
+enqueue -616
+enqueue 950
+enqueue 943
+dequeue
+enqueue -754
+enqueue -785
+enqueue -924
+enqueue 651
+enqueue 911
+enqueue 208
+dequeue
+dequeue
+dequeue
+enqueue -645
+enqueue -95
+enqueue 466
+dequeue
+enqueue -349
+enqueue 441
+enqueue 867
+dequeue
+enqueue 210
+enqueue 92
+dequeue
+enqueue 699
+enqueue -856
+dequeue
+dequeue
+enqueue 671
+enqueue 275
+enqueue 797
+enqueue 5
+dequeue
+dequeue
+enqueue -335
+dequeue
+enqueue 663
+dequeue
+dequeue
+dequeue
+enqueue -443
+enqueue -234
+enqueue 528
+enqueue -576
+dequeue
+enqueue 202
+enqueue 334
+enqueue -370
+enqueue -48
+enqueue 192
+dequeue
+enqueue 476
+dequeue
+dequeue
+dequeue
+enqueue 19
+dequeue
+enqueue 678
+enqueue 15
+dequeue
+enqueue 417
+dequeue
+dequeue
+enqueue 616
+enqueue 741
+dequeue
+enqueue -254
+dequeue
+enqueue 842
+dequeue
+enqueue -925
+dequeue
+enqueue 104
+enqueue -435
+enqueue 35
+dequeue
+dequeue
+enqueue -977
+dequeue
+dequeue
+dequeue
+enqueue -706
+enqueue -372
+dequeue
+enqueue -161
+enqueue -650
+dequeue
+dequeue
+enqueue -869
+enqueue 924
+enqueue 770
+enqueue -687
+enqueue 651
+dequeue
+enqueue -901
+enqueue 715
+enqueue -22
+dequeue
+dequeue
+enqueue 771
+enqueue 729
+enqueue -211
+enqueue 865
+enqueue 842
+dequeue
+enqueue -491
+dequeue
+enqueue 838
+enqueue -716
+enqueue -754
+dequeue
+enqueue -452
+enqueue 182
+enqueue -320
+enqueue -36
+enqueue -3
+dequeue
+enqueue -942
+dequeue
+enqueue -962
+enqueue -303
+enqueue -429
+enqueue -991
+enqueue 335
+enqueue 941
+enqueue 540
+dequeue
+enqueue -37
+enqueue 739
+enqueue 7
+dequeue
+enqueue -360
+enqueue -490
+dequeue
+enqueue 504
+enqueue -274
+dequeue
+enqueue 319
+enqueue -911
+dequeue
+dequeue
+enqueue 387
+enqueue -476
+enqueue -794
+enqueue -754
+dequeue
+enqueue 182
+dequeue
+enqueue 760
+enqueue -151
+enqueue 693
+enqueue 906
+enqueue 978
+enqueue -233
+enqueue -501
+enqueue -60
+dequeue
+enqueue -680
+dequeue
+enqueue 608
+enqueue 216
+enqueue -267
+enqueue -295
+dequeue
+dequeue
+enqueue -283
+enqueue -393
+dequeue
+enqueue -613
+enqueue 980
+dequeue
+enqueue -719
+enqueue 894
+enqueue -37
+enqueue -736
+enqueue 729
+dequeue
+enqueue 381
+enqueue 593
+dequeue
+enqueue 359
+dequeue
+dequeue
+enqueue 400
+enqueue -830
+enqueue -128
+dequeue
+enqueue 829
+dequeue
+enqueue -504
+enqueue -279
+enqueue -898
+dequeue
+enqueue -314
+enqueue -100
+enqueue 799
+enqueue -19
+dequeue
+enqueue -537
+enqueue 201
+enqueue -867
+dequeue
+enqueue -460
+enqueue -289
+enqueue -161
+dequeue
+dequeue
+enqueue -110
+enqueue -556
+dequeue
+dequeue
+enqueue 831
+dequeue
+dequeue
+enqueue 460
+enqueue 516
+dequeue
+enqueue -287
+dequeue
+enqueue -532
+enqueue 646
+enqueue -636
+enqueue -664
+dequeue
+enqueue 898
+enqueue 368
+dequeue
+dequeue
+dequeue
+enqueue 959
+dequeue
+enqueue -923
+enqueue 417
+enqueue -922
+enqueue 573
+dequeue
+enqueue -496
+dequeue
+dequeue
+enqueue 300
+enqueue -256
+enqueue 435
+enqueue 584
+enqueue 591
+dequeue
+dequeue
+enqueue -128
+enqueue 215
+enqueue -374
+enqueue -487
+enqueue -137
+dequeue
+enqueue 329
+enqueue -224
+enqueue 893
+enqueue 75
+enqueue -873
+enqueue 816
+enqueue -746
+dequeue
+enqueue -508
+enqueue 464
+dequeue
+dequeue
+enqueue -547
+enqueue -372
+enqueue 143
+dequeue
+dequeue
+enqueue -37
+enqueue 470
+enqueue -424
+enqueue -847
+dequeue
+dequeue
+enqueue 387
+dequeue
+dequeue
+enqueue -262
+enqueue 396
+enqueue 747
+dequeue
+dequeue
+enqueue 548
+enqueue 753
+enqueue 369
+dequeue
+enqueue 157
+enqueue -18
+dequeue
+dequeue
+enqueue 936
+enqueue 547
+enqueue 430
+enqueue 975
+enqueue 206
+enqueue -541
+dequeue
+enqueue -893
+enqueue -254
+enqueue 707
+dequeue
+enqueue 901
+enqueue -977
+dequeue
+enqueue 16
+dequeue
+enqueue 539
+dequeue
+enqueue 810
+dequeue
+enqueue -608
+enqueue -138
+enqueue -465
+enqueue -397
+dequeue
+enqueue 25
+enqueue 725
+enqueue -933
+enqueue -165
+enqueue 754
+enqueue -936
+dequeue
+enqueue 661
+dequeue
+enqueue -469
+enqueue 405
+enqueue -306
+enqueue -656
+enqueue 626
+dequeue
+dequeue
+enqueue 768
+dequeue
+enqueue 871
+dequeue
+dequeue
+dequeue
+enqueue 59
+enqueue -111
+dequeue
+enqueue 655
+enqueue -131
+enqueue 114
+enqueue -743
+dequeue
+enqueue -714
+enqueue 270
+enqueue -847
+enqueue -27
+enqueue -695
+enqueue 751
+dequeue
+dequeue
+dequeue
+enqueue 612
+dequeue
+enqueue 992
+dequeue
+dequeue
+enqueue 488
+enqueue -437
+dequeue
+front
+dequeue
+enqueue 58
+enqueue 429
+enqueue 287
+enqueue -615
+dequeue
+enqueue -696
+enqueue 432
+enqueue 672
+enqueue -600
+enqueue 71
+dequeue
+dequeue
+enqueue -73
+dequeue
+dequeue
+dequeue
+enqueue -799
+dequeue
+enqueue 400
+enqueue 590
+enqueue 228
+enqueue 264
+dequeue
+enqueue -470
+dequeue
+enqueue 345
+enqueue 880
+enqueue 259
+dequeue
+enqueue 668
+dequeue
+enqueue -159
+enqueue 1000
+dequeue
+enqueue 998
+enqueue 541
+enqueue -854
+enqueue 381
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 795
+enqueue -73
+enqueue 251
+dequeue
+dequeue
+enqueue -502
+enqueue -480
+enqueue 922
+enqueue -468
+enqueue -229
+dequeue
+enqueue -547
+enqueue 327
+enqueue 224
+enqueue -955
+enqueue 476
+enqueue 130
+dequeue
+enqueue 151
+dequeue
+enqueue 308
+enqueue 77
+dequeue
+enqueue -5
+enqueue 762
+dequeue
+dequeue
+dequeue
+enqueue 391
+enqueue 403
+enqueue 765
+enqueue -716
+enqueue 718
+enqueue 696
+enqueue 126
+enqueue -909
+enqueue -848
+enqueue 831
+dequeue
+enqueue 152
+enqueue 935
+enqueue -924
+enqueue 992
+enqueue 283
+dequeue
+enqueue 819
+enqueue -243
+dequeue
+dequeue
+dequeue
+enqueue 833
+enqueue 336
+dequeue
+dequeue
+enqueue -232
+dequeue
+enqueue 447
+enqueue -335
+enqueue -535
+enqueue -206
+dequeue
+dequeue
+dequeue
+enqueue -243
+dequeue
+dequeue
+enqueue -951
+enqueue -156
+enqueue 105
+enqueue 387
+enqueue 685
+dequeue
+enqueue 533
+enqueue 271
+enqueue -444
+enqueue 604
+enqueue 610
+enqueue 815
+enqueue 29
+enqueue -582
+enqueue 129
+enqueue 507
+enqueue -210
+enqueue 673
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 789
+enqueue 976
+enqueue -666
+enqueue 811
+enqueue -886
+dequeue
+dequeue
+dequeue
+enqueue -299
+enqueue 454
+enqueue 620
+enqueue -1000
+enqueue 337
+enqueue -205
+dequeue
+enqueue -963
+enqueue 391
+enqueue 366
+enqueue -429
+dequeue
+enqueue -329
+enqueue -495
+enqueue -550
+enqueue 799
+dequeue
+dequeue
+dequeue
+enqueue 431
+dequeue
+enqueue -284
+enqueue -624
+enqueue 538
+enqueue -717
+enqueue -974
+enqueue -758
+enqueue 503
+enqueue 684
+enqueue 919
+dequeue
+enqueue 328
+dequeue
+dequeue
+enqueue 863
+dequeue
+enqueue -361
+enqueue -770
+enqueue -999
+enqueue -629
+dequeue
+dequeue
+enqueue 744
+enqueue -168
+enqueue 183
+enqueue 571
+enqueue 432
+dequeue
+enqueue -604
+enqueue 228
+enqueue 881
+enqueue 955
+enqueue -443
+dequeue
+enqueue 231
+enqueue 82
+enqueue -180
+enqueue -443
+enqueue -720
+enqueue -266
+dequeue
+dequeue
+enqueue -475
+enqueue 620
+enqueue 61
+dequeue
+enqueue -670
+enqueue -739
+enqueue -616
+dequeue
+enqueue 804
+enqueue 930
+dequeue
+enqueue 946
+enqueue 707
+enqueue 566
+enqueue -187
+dequeue
+enqueue 213
+enqueue -81
+enqueue 157
+enqueue 852
+enqueue 774
+dequeue
+enqueue 206
+enqueue -321
+dequeue
+dequeue
+dequeue
+enqueue -361
+enqueue -201
+dequeue
+dequeue
+enqueue 79
+enqueue -263
+enqueue 249
+dequeue
+enqueue 567
+dequeue
+dequeue
+enqueue -206
+dequeue
+dequeue
+enqueue 576
+dequeue
+dequeue
+enqueue -624
+dequeue
+dequeue
+dequeue
+enqueue -367
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 819
+enqueue -636
+enqueue 357
+enqueue -42
+enqueue -882
+enqueue -432
+enqueue -249
+dequeue
+dequeue
+enqueue -580
+dequeue
+dequeue
+enqueue 242
+dequeue
+dequeue
+enqueue 648
+dequeue
+enqueue -253
+enqueue -526
+enqueue -731
+enqueue -555
+dequeue
+enqueue -791
+enqueue -948
+dequeue
+enqueue 276
+dequeue
+enqueue -760
+enqueue 926
+enqueue 275
+dequeue
+enqueue -932
+enqueue -857
+enqueue -295
+dequeue
+enqueue 25
+enqueue -219
+dequeue
+enqueue -359
+enqueue -808
+enqueue 993
+dequeue
+dequeue
+enqueue -501
+enqueue 627
+enqueue 662
+enqueue -132
+enqueue 706
+dequeue
+enqueue -494
+dequeue
+enqueue -631
+dequeue
+enqueue 622
+enqueue -256
+dequeue
+enqueue 72
+enqueue -566
+enqueue 566
+enqueue -945
+dequeue
+enqueue -248
+enqueue -133
+enqueue -686
+enqueue 444
+dequeue
+enqueue 716
+enqueue -900
+dequeue
+enqueue 11
+dequeue
+enqueue -256
+enqueue 500
+enqueue 757
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 31
+enqueue -116
+enqueue 753
+dequeue
+enqueue 486
+enqueue 345
+enqueue -821
+enqueue -222
+enqueue -426
+dequeue
+enqueue 424
+enqueue 930
+enqueue 999
+dequeue
+enqueue -87
+enqueue -374
+enqueue -452
+dequeue
+enqueue -952
+enqueue 190
+enqueue -243
+enqueue 142
+dequeue
+dequeue
+enqueue -919
+enqueue -271
+dequeue
+dequeue
+enqueue 803
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue -785
+enqueue 11
+dequeue
+enqueue 949
+enqueue 23
+enqueue -54
+enqueue -739
+dequeue
+enqueue 125
+enqueue 916
+enqueue 226
+enqueue 745
+dequeue
+enqueue -227
+enqueue 379
+enqueue -506
+enqueue 880
+dequeue
+dequeue
+enqueue 7
+enqueue -292
+enqueue 626
+dequeue
+enqueue -142
+dequeue
+enqueue -944
+enqueue 511
+dequeue
+enqueue 391
+dequeue
+enqueue -478
+dequeue
+enqueue -422
+enqueue -953
+enqueue -498
+dequeue
+enqueue 88
+enqueue 938
+dequeue
+dequeue
+enqueue 184
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 925
+enqueue 446
+dequeue
+enqueue -461
+enqueue 871
+enqueue 318
+enqueue 84
+enqueue -640
+enqueue -450
+enqueue 539
+dequeue
+enqueue -779
+dequeue
+enqueue -188
+enqueue -832
+enqueue 489
+enqueue -865
+enqueue -788
+dequeue
+enqueue 473
+enqueue -531
+enqueue -593
+enqueue 756
+enqueue 813
+enqueue 456
+dequeue
+enqueue -621
+enqueue -1
+enqueue -371
+dequeue
+dequeue
+dequeue
+enqueue -951
+enqueue -110
+enqueue 308
+dequeue
+enqueue 892
+enqueue -355
+dequeue
+dequeue
+enqueue 516
+dequeue
+enqueue -832
+enqueue -311
+enqueue 916
+enqueue -281
+dequeue
+dequeue
+enqueue 892
+enqueue -819
+enqueue 387
+enqueue 998
+enqueue 538
+enqueue 984
+enqueue -407
+enqueue 567
+dequeue
+enqueue -565
+dequeue
+enqueue 183
+enqueue 791
+dequeue
+enqueue 192
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue -423
+dequeue
+dequeue
+enqueue -553
+enqueue -298
+enqueue 620
+enqueue 251
+enqueue -553
+enqueue -431
+dequeue
+dequeue
+enqueue -681
+dequeue
+enqueue -112
+enqueue -359
+enqueue -779
+enqueue 901
+enqueue -900
+enqueue 150
+enqueue 160
+enqueue -204
+dequeue
+enqueue -667
+dequeue
+dequeue
+dequeue
+enqueue 183
+dequeue
+enqueue -830
+dequeue
+enqueue -109
+enqueue 925
+enqueue 614
+enqueue 436
+enqueue 279
+enqueue 929
+enqueue -733
+enqueue -743
+enqueue 591
+enqueue 436
+enqueue 946
+enqueue -995
+enqueue 352
+dequeue
+dequeue
+enqueue 595
+dequeue
+enqueue -589
+enqueue -268
+enqueue 625
+enqueue -225
+enqueue 386
+enqueue 303
+dequeue
+enqueue -855
+enqueue 333
+enqueue 357
+enqueue -40
+dequeue
+enqueue 841
+enqueue -403
+enqueue 397
+enqueue -887
+enqueue -247
+enqueue 479
+enqueue -699
+enqueue -572
+enqueue -456
+enqueue -197
+dequeue
+enqueue 811
+enqueue -75
+enqueue -70
+dequeue
+enqueue 903
+enqueue -82
+enqueue 600
+enqueue -622
+enqueue 761
+enqueue -281
+enqueue -112
+dequeue
+dequeue
+enqueue -439
+enqueue -929
+enqueue 934
+enqueue -762
+enqueue 870
+enqueue -578
+dequeue
+enqueue 403
+dequeue
+enqueue -776
+dequeue
+enqueue 394
+enqueue 872
+enqueue 315
+enqueue 977
+enqueue 963
+dequeue
+enqueue -27
+dequeue
+dequeue
+dequeue
+enqueue 997
+enqueue -657
+enqueue -916
+enqueue 733
+enqueue 497
+dequeue
+enqueue -376
+enqueue 134
+dequeue
+enqueue 930
+enqueue -256
+enqueue 793
+enqueue -258
+enqueue -184
+enqueue 696
+enqueue 933
+dequeue
+enqueue 334
+enqueue 265
+enqueue 739
+enqueue 639
+dequeue
+enqueue -142
+enqueue 834
+dequeue
+enqueue -986
+enqueue -671
+enqueue -141
+dequeue
+enqueue 81
+dequeue
+enqueue 863
+enqueue 808
+dequeue
+enqueue -95
+dequeue
+dequeue
+enqueue -523
+enqueue 799
+enqueue 920
+enqueue -290
+enqueue -656
+dequeue
+dequeue
+enqueue 241
+dequeue
+enqueue -750
+enqueue -921
+enqueue -57
+enqueue 653
+enqueue 471
+enqueue -848
+dequeue
+enqueue 92
+enqueue 812
+enqueue -223
+enqueue -748
+enqueue -70
+enqueue -912
+enqueue -768
+enqueue -334
+enqueue 188
+enqueue 403
+enqueue 433
+enqueue -485
+enqueue 792
+dequeue
+enqueue -220
+dequeue
+dequeue
+enqueue -957
+enqueue 285
+dequeue
+enqueue 363
+enqueue -156
+dequeue
+enqueue 917
+enqueue 329
+enqueue 809
+enqueue 920
+dequeue
+enqueue -17
+dequeue
+enqueue 42
+enqueue 14
+enqueue -863
+dequeue
+enqueue 788
+enqueue -453
+enqueue -134
+enqueue -818
+enqueue -493
+enqueue -476
+enqueue -77
+enqueue 478
+dequeue
+enqueue -147
+enqueue -217
+enqueue 911
+dequeue
+enqueue -974
+enqueue -443
+dequeue
+enqueue -487
+dequeue
+enqueue -775
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue -13
+dequeue
+enqueue -700
+dequeue
+dequeue
+enqueue 724
+enqueue 214
+enqueue -81
+dequeue
+enqueue 747
+dequeue
+dequeue
+enqueue 625
+dequeue
+enqueue -181
+enqueue 133
+enqueue -347
+enqueue 428
+enqueue 452
+dequeue
+dequeue
+dequeue
+enqueue -307
+enqueue -938
+dequeue
+dequeue
+enqueue 855
+dequeue
+enqueue 198
+enqueue -985
+dequeue
+dequeue
+dequeue
+enqueue 711
+enqueue 817
+enqueue 79
+enqueue 990
+enqueue 392
+dequeue
+enqueue -457
+enqueue 815
+enqueue 761
+dequeue
+enqueue -683
+dequeue
+enqueue -822
+enqueue 710
+dequeue
+enqueue 60
+enqueue -982
+enqueue 325
+enqueue -465
+enqueue -3
+enqueue 912
+enqueue -346
+enqueue 672
+enqueue -176
+dequeue
+enqueue -61
+enqueue -218
+enqueue -78
+enqueue -972
+enqueue -781
+enqueue 721
+dequeue
+enqueue 110
+enqueue -168
+dequeue
+enqueue 1000
+enqueue 153
+enqueue -890
+enqueue 964
+enqueue 958
+enqueue 981
+enqueue -685
+enqueue -346
+dequeue
+dequeue
+enqueue -416
+enqueue 931
+enqueue 831
+enqueue 581
+enqueue -481
+enqueue -985
+enqueue -107
+enqueue 489
+dequeue
+enqueue -58
+dequeue
+enqueue 13
+enqueue 129
+dequeue
+enqueue 552
+enqueue 871
+enqueue -864
+enqueue 449
+dequeue
+enqueue -985
+enqueue -705
+enqueue 673
+enqueue 683
+enqueue -216
+enqueue -422
+enqueue -202
+dequeue
+enqueue 406
+enqueue -125
+dequeue
+enqueue 889
+enqueue -954
+enqueue 424
+enqueue -29
+enqueue -388
+enqueue -550
+enqueue 181
+dequeue
+enqueue -118
+enqueue -46
+enqueue 364
+enqueue -564
+enqueue 982
+dequeue
+enqueue -472
+enqueue -314
+enqueue -949
+enqueue -129
+enqueue 598
+dequeue
+enqueue -28
+enqueue 167
+enqueue 849
+enqueue -564
+dequeue
+enqueue -322
+front
+enqueue -265
+enqueue 94
+enqueue 877
+enqueue 177
+enqueue -471
+enqueue 972
+enqueue 36
+enqueue 965
+dequeue
+dequeue
+enqueue -580
+enqueue 960
+dequeue
+enqueue -820
+enqueue -37
+enqueue 944
+enqueue 477
+dequeue
+enqueue 775
+enqueue -6
+enqueue -909
+dequeue
+enqueue 283
+enqueue 332
+enqueue 901
+enqueue -745
+enqueue -695
+dequeue
+enqueue -994
+enqueue -293
+enqueue 648
+enqueue 657
+dequeue
+dequeue
+enqueue -231
+enqueue 423
+dequeue
+enqueue -232
+enqueue 54
+enqueue 669
+enqueue -325
+dequeue
+enqueue -680
+enqueue 388
+enqueue 977
+enqueue -477
+dequeue
+dequeue
+enqueue 835
+dequeue
+dequeue
+enqueue 922
+enqueue 477
+dequeue
+enqueue -343
+dequeue
+dequeue
+dequeue
+enqueue 474
+enqueue -532
+enqueue 217
+dequeue
+enqueue 752
+dequeue
+dequeue
+dequeue
+enqueue -928
+enqueue -418
+dequeue
+enqueue -388
+dequeue
+dequeue
+dequeue
+enqueue 53
+enqueue -577
+dequeue
+enqueue 795
+dequeue
+enqueue -714
+enqueue -916
+enqueue -621
+enqueue 574
+dequeue
+enqueue -148
+dequeue
+enqueue 221
+dequeue
+enqueue -192
+enqueue 96
+dequeue
+enqueue -388
+dequeue
+enqueue -319
+dequeue
+enqueue 278
+enqueue 449
+dequeue
+enqueue -302
+enqueue 502
+enqueue -8
+enqueue 276
+enqueue -505
+enqueue -870
+enqueue -731
+enqueue 228
+dequeue
+enqueue -312
+enqueue -295
+dequeue
+enqueue -271
+enqueue -595
+enqueue -956
+enqueue -148
+enqueue 849
+enqueue 191
+enqueue -264
+dequeue
+dequeue
+enqueue -872
+enqueue -607
+enqueue -336
+enqueue 440
+dequeue
+enqueue 59
+enqueue 338
+dequeue
+enqueue 954
+enqueue 64
+enqueue 792
+enqueue 660
+enqueue 625
+dequeue
+enqueue -141
+enqueue -347
+dequeue
+enqueue -63
+enqueue -550
+dequeue
+enqueue 357
+enqueue -532
+enqueue 521
+enqueue 226
+enqueue 152
+enqueue 26
+enqueue 986
+dequeue
+enqueue -42
+enqueue 235
+enqueue 910
+enqueue 91
+enqueue -475
+enqueue 808
+enqueue 588
+dequeue
+dequeue
+enqueue 738
+enqueue -774
+enqueue -916
+enqueue 163
+enqueue -926
+enqueue -828
+dequeue
+enqueue -293
+dequeue
+dequeue
+enqueue -888
+enqueue 209
+enqueue 899
+enqueue 434
+enqueue 147
+enqueue -396
+enqueue -235
+enqueue 758
+enqueue -151
+enqueue 465
+enqueue -399
+enqueue -409
+enqueue -189
+enqueue 342
+front
+dequeue
+enqueue -930
+dequeue
+dequeue
+dequeue
+enqueue -986
+enqueue -923
+dequeue
+dequeue
+enqueue -984
+enqueue 290
+enqueue -708
+enqueue 453
+enqueue 465
+dequeue
+dequeue
+enqueue -650
+dequeue
+enqueue -418
+enqueue 962
+enqueue -259
+dequeue
+enqueue -641
+enqueue 330
+enqueue -345
+enqueue 764
+enqueue -385
+dequeue
+enqueue 852
+enqueue -6
+enqueue 731
+enqueue 0
+enqueue -378
+enqueue 524
+dequeue
+enqueue -784
+enqueue 537
+dequeue
+enqueue 555
+enqueue 419
+enqueue 939
+enqueue -62
+enqueue -617
+enqueue -90
+enqueue 638
+enqueue -729
+enqueue 273
+enqueue 615
+dequeue
+dequeue
+enqueue -805
+dequeue
+enqueue 902
+enqueue -750
+enqueue 11
+enqueue -857
+dequeue
+enqueue 975
+enqueue -110
+dequeue
+dequeue
+enqueue -232
+enqueue -496
+enqueue 373
+enqueue 315
+dequeue
+enqueue 564
+enqueue 826
+enqueue -797
+enqueue -588
+enqueue -64
+dequeue
+enqueue -129
+enqueue -194
+enqueue -491
+enqueue -77
+enqueue -2
+dequeue
+enqueue 78
+enqueue 894
+enqueue 115
+enqueue -391
+enqueue -212
+enqueue -171
+enqueue 200
+enqueue 941
+enqueue -704
+dequeue
+enqueue -481
+enqueue -427
+enqueue -724
+enqueue 890
+enqueue 904
+enqueue -465
+enqueue 493
+enqueue 556
+enqueue -69
+enqueue 536
+dequeue
+dequeue
+enqueue -355
+enqueue 635
+dequeue
+enqueue 898
+dequeue
+dequeue
+enqueue -7
+enqueue 628
+enqueue 983
+enqueue -981
+enqueue 92
+dequeue
+enqueue 853
+enqueue -531
+dequeue
+enqueue 531
+enqueue 582
+dequeue
+enqueue 956
+enqueue -42
+dequeue
+enqueue 506
+dequeue
+dequeue
+enqueue 235
+enqueue 85
+enqueue -315
+dequeue
+enqueue 118
+enqueue 552
+dequeue
+dequeue
+enqueue 322
+enqueue -625
+dequeue
+enqueue 138
+enqueue 719
+enqueue -414
+enqueue 199
+enqueue -695
+enqueue 371
+enqueue 88
+dequeue
+dequeue
+enqueue 786
+enqueue 503
+enqueue 228
+dequeue
+dequeue
+enqueue -640
+enqueue -921
+enqueue 227
+dequeue
+enqueue -236
+enqueue -369
+dequeue
+dequeue
+dequeue
+enqueue -965
+enqueue 418
+dequeue
+enqueue 452
+enqueue -601
+dequeue
+enqueue -690
+enqueue 537
+dequeue
+enqueue -434
+enqueue -2
+enqueue -984
+enqueue 12
+dequeue
+enqueue 201
+dequeue
+enqueue -250
+dequeue
+enqueue -523
+enqueue 445
+enqueue -313
+enqueue -357
+enqueue 909
+enqueue 395
+dequeue
+enqueue 624
+dequeue
+dequeue
+dequeue
+enqueue -79
+enqueue 431
+enqueue -736
+enqueue -830
+enqueue 647
+dequeue
+enqueue 344
+dequeue
+dequeue
+enqueue 602
+enqueue 68
+enqueue 163
+dequeue
+enqueue -439
+enqueue 56
+enqueue -482
+enqueue -634
+enqueue -324
+enqueue 340
+enqueue 541
+dequeue
+enqueue 607
+dequeue
+enqueue 737
+enqueue 428
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 722
+enqueue -977
+enqueue -504
+enqueue 806
+enqueue 133
+dequeue
+enqueue 570
+enqueue -467
+enqueue 62
+enqueue 452
+enqueue -151
+enqueue 665
+dequeue
+enqueue 671
+dequeue
+dequeue
+enqueue -204
+dequeue
+enqueue 52
+enqueue 378
+enqueue 792
+enqueue 374
+dequeue
+enqueue -949
+enqueue -558
+dequeue
+enqueue 303
+dequeue
+enqueue 948
+enqueue 498
+dequeue
+dequeue
+enqueue -340
+enqueue 179
+enqueue -366
+enqueue -302
+enqueue -552
+enqueue 5
+enqueue -789
+enqueue -419
+enqueue -558
+enqueue 234
+enqueue -577
+enqueue 34
+enqueue 238
+enqueue -273
+enqueue 710
+enqueue -166
+enqueue -527
+dequeue
+dequeue
+enqueue 647
+enqueue -429
+enqueue 331
+enqueue -201
+enqueue 309
+enqueue 971
+enqueue -49
+enqueue -955
+enqueue 67
+enqueue 383
+enqueue -182
+dequeue
+enqueue 79
+enqueue 219
+enqueue -514
+dequeue
+dequeue
+dequeue
+enqueue -502
+dequeue
+enqueue -184
+enqueue 76
+enqueue -983
+dequeue
+dequeue
+dequeue
+enqueue -827
+enqueue 532
+dequeue
+enqueue -498
+dequeue
+enqueue -95
+dequeue
+dequeue
+dequeue
+enqueue 929
+enqueue 353
+dequeue
+enqueue 537
+enqueue -388
+dequeue
+dequeue
+enqueue -651
+enqueue -600
+enqueue 491
+enqueue -208
+enqueue 466
+enqueue -241
+enqueue 247
+enqueue 957
+dequeue
+enqueue -953
+enqueue -522
+dequeue
+enqueue 50
+enqueue -327
+enqueue -387
+enqueue -398
+enqueue 195
+enqueue 596
+enqueue 983
+enqueue 896
+enqueue 128
+enqueue -259
+dequeue
+enqueue 206
+dequeue
+enqueue -383
+dequeue
+dequeue
+enqueue -651
+enqueue -157
+enqueue -232
+enqueue 232
+enqueue 92
+dequeue
+enqueue -55
+enqueue -440
+dequeue
+enqueue 153
+enqueue -84
+enqueue 589
+enqueue -365
+dequeue
+enqueue 303
+dequeue
+enqueue -636
+enqueue -681
+dequeue
+enqueue -315
+enqueue -276
+enqueue 622
+dequeue
+dequeue
+enqueue -869
+enqueue -912
+dequeue
+dequeue
+dequeue
+enqueue -561
+enqueue -923
+enqueue 895
+enqueue 607
+enqueue -163
+enqueue -83
+enqueue -720
+enqueue -916
+enqueue 292
+dequeue
+enqueue -334
+enqueue -639
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue -264
+dequeue
+enqueue 511
+enqueue -599
+enqueue -484
+enqueue -89
+enqueue 518
+enqueue 871
+enqueue 326
+enqueue -990
+enqueue 689
+enqueue 107
+enqueue -520
+dequeue
+dequeue
+dequeue
+enqueue -801
+enqueue -937
+enqueue 167
+dequeue
+dequeue
+enqueue 687
+enqueue -258
+dequeue
+dequeue
+enqueue 746
+dequeue
+dequeue
+enqueue -904
+enqueue -92
+dequeue
+dequeue
+enqueue 116
+enqueue 670
+enqueue 464
+enqueue -822
+enqueue -865
+enqueue -632
+enqueue -731
+enqueue -436
+enqueue 971
+enqueue 54
+enqueue 490
+enqueue -541
+dequeue
+dequeue
+enqueue -373
+enqueue -767
+enqueue 913
+enqueue 17
+dequeue
+dequeue
+dequeue
+enqueue -664
+enqueue -194
+dequeue
+enqueue -750
+enqueue 51
+enqueue 670
+dequeue
+dequeue
+enqueue -751
+enqueue 630
+enqueue 376
+dequeue
+dequeue
+enqueue 666
+enqueue 637
+enqueue -106
+enqueue -832
+enqueue -793
+enqueue -802
+enqueue 155
+dequeue
+enqueue 85
+dequeue
+enqueue 291
+enqueue -772
+dequeue
+enqueue -623
+dequeue
+enqueue -931
+dequeue
+dequeue
+enqueue -624
+enqueue 660
+enqueue -903
+enqueue 117
+enqueue 589
+dequeue
+enqueue 197
+enqueue -51
+enqueue -802
+dequeue
+dequeue
+enqueue 688
+dequeue
+dequeue
+dequeue
+enqueue 490
+enqueue -430
+enqueue -306
+enqueue -627
+dequeue
+enqueue 266
+enqueue 885
+dequeue
+enqueue -337
+dequeue
+dequeue
+enqueue -956
+enqueue 98
+enqueue 542
+enqueue 195
+enqueue 641
+enqueue 889
+dequeue
+enqueue -110
+enqueue -341
+dequeue
+enqueue -418
+enqueue 202
+enqueue -961
+dequeue
+enqueue 721
+enqueue -739
+dequeue
+dequeue
+enqueue -971
+enqueue -618
+enqueue -696
+enqueue 362
+enqueue -704
+enqueue 569
+enqueue -315
+enqueue 17
+dequeue
+enqueue 955
+enqueue 545
+enqueue -340
+enqueue -971
+enqueue 79
+enqueue -560
+enqueue -65
+enqueue -634
+enqueue 190
+dequeue
+dequeue
+dequeue
+enqueue 45
+enqueue -129
+enqueue 270
+enqueue 41
+enqueue -14
+enqueue -351
+dequeue
+enqueue 415
+enqueue 148
+enqueue -474
+dequeue
+enqueue 309
+enqueue 855
+enqueue 222
+dequeue
+enqueue -769
+enqueue 353
+enqueue -781
+enqueue -756
+enqueue -296
+dequeue
+enqueue 947
+dequeue
+enqueue -254
+dequeue
+enqueue 280
+enqueue 248
+dequeue
+enqueue -461
+enqueue 429
+enqueue 625
+dequeue
+enqueue 630
+enqueue -587
+enqueue -375
+enqueue -584
+enqueue 262
+dequeue
+enqueue 26
+enqueue 764
+enqueue 625
+dequeue
+dequeue
+enqueue 163
+enqueue 471
+enqueue -733
+enqueue 858
+dequeue
+dequeue
+enqueue -718
+enqueue -563
+dequeue
+enqueue -517
+dequeue
+enqueue -294
+dequeue
+enqueue 738
+enqueue 274
+enqueue -967
+enqueue 418
+enqueue -874
+enqueue 21
+enqueue 771
+enqueue 431
+enqueue 442
+dequeue
+enqueue -77
+enqueue 918
+enqueue -801
+enqueue 91
+enqueue 15
+enqueue -518
+dequeue
+dequeue
+enqueue 764
+enqueue -600
+enqueue -853
+enqueue -274
+enqueue 298
+enqueue 988
+enqueue 448
+enqueue 353
+enqueue 709
+enqueue -898
+enqueue 129
+dequeue
+dequeue
+dequeue
+enqueue 517
+enqueue -415
+enqueue 304
+enqueue -575
+enqueue 890
+dequeue
+dequeue
+enqueue -218
+dequeue
+dequeue
+enqueue 652
+dequeue
+dequeue
+enqueue 210
+dequeue
+enqueue 400
+enqueue 248
+enqueue 585
+enqueue 14
+enqueue -414
+enqueue 321
+dequeue
+enqueue 84
+enqueue -405
+enqueue 583
+dequeue
+enqueue 694
+enqueue 462
+enqueue 638
+enqueue 248
+enqueue 247
+dequeue
+dequeue
+enqueue -520
+enqueue -14
+dequeue
+enqueue 795
+enqueue -663
+dequeue
+enqueue 949
+enqueue -546
+dequeue
+enqueue 113
+enqueue 855
+enqueue 333
+enqueue 379
+dequeue
+enqueue -576
+enqueue -530
+dequeue
+enqueue -256
+enqueue -4
+dequeue
+dequeue
+dequeue
+enqueue -809
+enqueue 266
+dequeue
+dequeue
+enqueue 292
+enqueue 752
+dequeue
+enqueue 525
+dequeue
+enqueue 977
+enqueue 917
+enqueue 142
+enqueue 383
+enqueue 351
+enqueue -685
+enqueue 726
+enqueue 623
+enqueue 853
+enqueue -529
+enqueue 964
+enqueue 754
+enqueue 13
+enqueue 811
+dequeue
+enqueue -360
+enqueue 861
+enqueue 962
+dequeue
+enqueue 431
+enqueue 501
+enqueue -344
+enqueue -394
+enqueue -834
+dequeue
+dequeue
+dequeue
+enqueue -85
+enqueue -408
+enqueue -819
+enqueue 352
+dequeue
+enqueue 271
+enqueue 585
+enqueue 588
+enqueue 393
+dequeue
+dequeue
+enqueue -830
+enqueue -262
+dequeue
+enqueue 453
+dequeue
+dequeue
+enqueue -37
+dequeue
+enqueue -244
+enqueue 738
+enqueue -449
+enqueue 425
+dequeue
+enqueue 331
+enqueue -184
+enqueue -908
+dequeue
+enqueue -617
+enqueue -407
+enqueue -720
+dequeue
+enqueue 593
+dequeue
+dequeue
+enqueue -679
+dequeue
+enqueue 432
+enqueue -313
+enqueue -608
+enqueue -805
+dequeue
+enqueue 123
+enqueue -128
+dequeue
+enqueue 433
+dequeue
+dequeue
+dequeue
+enqueue 842
+enqueue -183
+dequeue
+enqueue 185
+dequeue
+enqueue 136
+enqueue -523
+enqueue -952
+enqueue 665
+enqueue -431
+dequeue
+enqueue -261
+enqueue -189
+enqueue -565
+enqueue 930
+enqueue 490
+dequeue
+dequeue
+enqueue 369
+dequeue
+enqueue 507
+dequeue
+enqueue -479
+dequeue
+enqueue 258
+dequeue
+dequeue
+dequeue
+enqueue 585
+enqueue 485
+dequeue
+enqueue 828
+enqueue -661
+enqueue 489
+enqueue -547
+enqueue -952
+dequeue
+enqueue -302
+enqueue -704
+enqueue -8
+enqueue -690
+enqueue 246
+dequeue
+dequeue
+enqueue -380
+enqueue -991
+enqueue 873
+enqueue 292
+dequeue
+enqueue -85
+enqueue 313
+enqueue 546
+enqueue -401
+enqueue 970
+enqueue 136
+dequeue
+enqueue 460
+enqueue 331
+dequeue
+enqueue -260
+dequeue
+enqueue 704
+dequeue
+dequeue
+enqueue -463
+dequeue
+enqueue -960
+dequeue
+enqueue -183
+enqueue -492
+enqueue -849
+enqueue 978
+enqueue 615
+enqueue 286
+enqueue -519
+enqueue 2
+enqueue 437
+dequeue
+enqueue 718
+enqueue -986
+enqueue -682
+enqueue -811
+enqueue -478
+dequeue
+enqueue 419
+dequeue
+enqueue 327
+dequeue
+dequeue
+enqueue -245
+enqueue 140
+enqueue -651
+enqueue -854
+enqueue 524
+enqueue -410
+enqueue -431
+enqueue -122
+dequeue
+enqueue 579
+enqueue 92
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 13
+enqueue 856
+dequeue
+dequeue
+enqueue 616
+dequeue
+enqueue -946
+enqueue 126
+enqueue 191
+enqueue -262
+dequeue
+enqueue -845
+enqueue 823
+enqueue 528
+enqueue 473
+enqueue 724
+enqueue -134
+enqueue -235
+enqueue 456
+enqueue -734
+dequeue
+enqueue -606
+enqueue -917
+enqueue -518
+enqueue -698
+enqueue -740
+dequeue
+enqueue -466
+enqueue 184
+enqueue -316
+enqueue -775
+enqueue 769
+dequeue
+enqueue -14
+dequeue
+enqueue 113
+dequeue
+enqueue -386
+dequeue
+dequeue
+enqueue -427
+dequeue
+enqueue -210
+enqueue -100
+enqueue 286
+enqueue -939
+enqueue 856
+dequeue
+dequeue
+enqueue -360
+enqueue 226
+dequeue
+enqueue 78
+dequeue
+enqueue -150
+enqueue 643
+dequeue
+enqueue 114
+enqueue 168
+enqueue -778
+dequeue
+dequeue
+enqueue 614
+enqueue -385
+enqueue 870
+enqueue 760
+enqueue -229
+enqueue -330
+enqueue -398
+enqueue -996
+enqueue -133
+enqueue 48
+enqueue 568
+enqueue -126
+enqueue 184
+enqueue 579
+enqueue 285
+enqueue 642
+enqueue -625
+dequeue
+enqueue 652
+enqueue 148
+enqueue -848
+enqueue 534
+enqueue 674
+dequeue
+enqueue 846
+dequeue
+enqueue -469
+enqueue 710
+dequeue
+dequeue
+enqueue -708
+enqueue 163
+enqueue 790
+enqueue 274
+enqueue 30
+enqueue -989
+enqueue -304
+dequeue
+dequeue
+enqueue -201
+dequeue
+enqueue 174
+enqueue -868
+enqueue -883
+enqueue -141
+enqueue -779
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 473
+enqueue 904
+enqueue -999
+enqueue 865
+enqueue 179
+enqueue -365
+dequeue
+enqueue -130
+enqueue -822
+enqueue 687
+enqueue -759
+enqueue -237
+enqueue -769
+enqueue 313
+enqueue -123
+dequeue
+dequeue
+dequeue
+enqueue -543
+dequeue
+dequeue
+enqueue -634
+enqueue 143
+enqueue 441
+enqueue -633
+enqueue 397
+enqueue 392
+enqueue -38
+enqueue -762
+dequeue
+dequeue
+enqueue 375
+enqueue 814
+dequeue
+enqueue 135
+dequeue
+enqueue 263
+enqueue 753
+enqueue 944
+enqueue 724
+enqueue -552
+dequeue
+dequeue
+enqueue 513
+enqueue 952
+enqueue 381
+dequeue
+enqueue -215
+dequeue
+enqueue -721
+dequeue
+enqueue -426
+enqueue 255
+enqueue 484
+dequeue
+dequeue
+enqueue 542
+enqueue 998
+enqueue -444
+dequeue
+dequeue
+enqueue 25
+dequeue
+enqueue -665
+dequeue
+enqueue 537
+enqueue 672
+dequeue
+enqueue -475
+enqueue 692
+enqueue -936
+enqueue 893
+enqueue 280
+enqueue 697
+enqueue -192
+dequeue
+enqueue -88
+dequeue
+enqueue -432
+enqueue -739
+enqueue -700
+enqueue 34
+dequeue
+enqueue -54
+enqueue -199
+enqueue -263
+dequeue
+enqueue 96
+dequeue
+enqueue 857
+dequeue
+enqueue 308
+dequeue
+enqueue -801
+enqueue 415
+enqueue 866
+enqueue -23
+enqueue -83
+enqueue -506
+enqueue 434
+enqueue 748
+dequeue
+enqueue -700
+dequeue
+enqueue -287
+enqueue -950
+enqueue -702
+enqueue 894
+enqueue 476
+enqueue 732
+dequeue
+enqueue 566
+enqueue 151
+enqueue 912
+dequeue
+dequeue
+dequeue
+enqueue -962
+enqueue 537
+enqueue 768
+dequeue
+enqueue 693
+enqueue 20
+dequeue
+enqueue 399
+dequeue
+enqueue 225
+enqueue -422
+enqueue 336
+dequeue
+dequeue
+enqueue -491
+enqueue -56
+enqueue -299
+dequeue
+enqueue -189
+enqueue 106
+enqueue -634
+enqueue -434
+enqueue 418
+dequeue
+enqueue 20
+enqueue -620
+dequeue
+enqueue 813
+enqueue 440
+enqueue -177
+enqueue -299
+enqueue 17
+enqueue 731
+enqueue -657
+enqueue -521
+enqueue 595
+dequeue
+dequeue
+dequeue
+enqueue -78
+enqueue -465
+enqueue 135
+enqueue -598
+dequeue
+dequeue
+enqueue 648
+dequeue
+enqueue 606
+enqueue 1000
+enqueue 767
+enqueue -36
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 804
+enqueue 977
+enqueue -699
+dequeue
+dequeue
+enqueue -677
+enqueue 65
+dequeue
+enqueue -373
+enqueue -442
+dequeue
+dequeue
+enqueue 440
+enqueue -297
+enqueue 687
+dequeue
+enqueue 607
+dequeue
+dequeue
+dequeue
+enqueue 514
+enqueue 443
+dequeue
+enqueue 632
+enqueue 22
+enqueue -148
+enqueue -456
+dequeue
+dequeue
+enqueue -380
+enqueue -482
+enqueue -300
+enqueue -223
+dequeue
+enqueue -571
+enqueue -999
+dequeue
+enqueue -154
+enqueue 14
+enqueue 387
+enqueue -427
+enqueue 669
+enqueue -769
+enqueue -417
+enqueue 126
+dequeue
+enqueue -646
+enqueue 828
+enqueue -994
+enqueue 931
+dequeue
+enqueue 166
+enqueue 910
+enqueue -705
+enqueue -916
+enqueue -456
+dequeue
+dequeue
+enqueue 842
+enqueue -684
+enqueue 883
+enqueue 838
+enqueue 951
+enqueue -325
+enqueue 680
+enqueue 293
+enqueue 611
+enqueue -300
+enqueue 257
+dequeue
+dequeue
+enqueue -973
+dequeue
+enqueue -762
+dequeue
+dequeue
+enqueue -757
+dequeue
+enqueue -482
+enqueue -430
+dequeue
+enqueue -601
+enqueue -335
+enqueue -531
+dequeue
+enqueue -731
+enqueue -586
+enqueue -40
+dequeue
+dequeue
+enqueue 22
+enqueue 126
+enqueue 654
+enqueue 752
+enqueue 904
+enqueue 610
+enqueue -915
+dequeue
+enqueue 228
+dequeue
+enqueue -267
+enqueue 278
+enqueue 597
+enqueue -445
+enqueue 555
+enqueue 612
+enqueue 369
+enqueue -594
+enqueue 421
+enqueue 294
+enqueue 329
+enqueue -133
+enqueue 963
+dequeue
+enqueue 322
+enqueue -847
+enqueue 691
+enqueue 200
+dequeue
+enqueue -451
+enqueue -773
+dequeue
+enqueue -298
+enqueue 58
+dequeue
+enqueue 884
+dequeue
+enqueue -900
+enqueue 909
+enqueue 406
+enqueue -764
+enqueue -180
+dequeue
+enqueue -99
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue -122
+enqueue 956
+dequeue
+enqueue 702
+enqueue 631
+dequeue
+enqueue 102
+enqueue 339
+dequeue
+enqueue 775
+enqueue -82
+enqueue -26
+enqueue -921
+enqueue 27
+enqueue 970
+enqueue -804
+dequeue
+enqueue -116
+dequeue
+enqueue -66
+dequeue
+enqueue 47
+dequeue
+enqueue 456
+enqueue -608
+enqueue 551
+dequeue
+enqueue -977
+enqueue 794
+enqueue 706
+dequeue
+dequeue
+dequeue
+enqueue 445
+dequeue
+enqueue 731
+enqueue -752
+enqueue 565
+enqueue 920
+dequeue
+enqueue 675
+dequeue
+dequeue
+dequeue
+enqueue -656
+enqueue -500
+enqueue 164
+enqueue -662
+dequeue
+enqueue 286
+dequeue
+enqueue 36
+dequeue
+enqueue -335
+enqueue -556
+enqueue 191
+enqueue 562
+enqueue -431
+dequeue
+enqueue -860
+dequeue
+front
+enqueue -234
+enqueue 919
+enqueue 671
+enqueue -931
+enqueue 46
+enqueue 651
+enqueue -404
+dequeue
+dequeue
+dequeue
+enqueue 657
+enqueue -700
+enqueue -455
+dequeue
+enqueue -784
+enqueue 58
+enqueue 849
+enqueue 833
+enqueue 860
+enqueue 363
+enqueue 317
+enqueue 213
+enqueue 95
+dequeue
+enqueue 908
+enqueue -622
+enqueue 287
+enqueue 89
+enqueue -807
+enqueue -266
+enqueue 910
+enqueue 146
+enqueue -125
+dequeue
+dequeue
+enqueue -756
+dequeue
+enqueue 96
+dequeue
+enqueue -883
+enqueue 163
+enqueue -894
+dequeue
+enqueue 828
+dequeue
+enqueue 464
+enqueue -278
+enqueue -492
+enqueue -538
+dequeue
+dequeue
+dequeue
+enqueue 721
+enqueue -614
+dequeue
+enqueue -335
+dequeue
+dequeue
+enqueue -410
+enqueue 329
+enqueue -477
+enqueue -301
+enqueue -115
+dequeue
+enqueue 625
+enqueue 307
+enqueue 228
+enqueue -553
+enqueue -684
+enqueue -948
+enqueue 553
+enqueue 969
+enqueue -686
+enqueue -344
+enqueue -23
+enqueue 786
+dequeue
+enqueue 493
+enqueue -195
+dequeue
+enqueue 68
+enqueue -914
+dequeue
+enqueue -849
+enqueue 321
+enqueue -234
+enqueue -725
+dequeue
+enqueue -313
+enqueue -305
+enqueue 856
+enqueue -507
+dequeue
+dequeue
+dequeue
+enqueue 755
+enqueue 244
+enqueue 331
+enqueue -23
+enqueue -218
+enqueue -591
+enqueue -91
+dequeue
+enqueue -537
+dequeue
+enqueue -120
+enqueue -804
+enqueue 105
+enqueue 592
+enqueue -61
+dequeue
+enqueue -301
+dequeue
+enqueue -724
+enqueue 545
+dequeue
+enqueue -204
+enqueue -489
+enqueue -982
+dequeue
+enqueue -956
+enqueue -965
+dequeue
+enqueue 930
+enqueue 697
+dequeue
+enqueue -2
+enqueue 500
+enqueue -70
+dequeue
+dequeue
+enqueue 658
+dequeue
+dequeue
+enqueue -2
+enqueue -342
+enqueue -384
+enqueue 220
+dequeue
+enqueue -819
+enqueue -895
+enqueue 528
+enqueue -142
+dequeue
+dequeue
+enqueue 18
+enqueue 426
+enqueue -442
+enqueue 543
+dequeue
+enqueue 859
+enqueue 27
+dequeue
+enqueue -564
+enqueue -603
+enqueue -233
+dequeue
+dequeue
+enqueue 359
+enqueue -471
+enqueue -79
+dequeue
+enqueue -246
+enqueue -38
+enqueue 154
+enqueue 935
+enqueue -954
+dequeue
+dequeue
+enqueue 536
+dequeue
+enqueue -13
+dequeue
+enqueue -802
+enqueue 319
+enqueue -478
+dequeue
+dequeue
+enqueue -626
+dequeue
+enqueue 677
+enqueue 352
+enqueue 782
+enqueue 222
+enqueue -29
+enqueue -957
+enqueue 674
+enqueue 577
+enqueue 477
+dequeue
+enqueue 105
+enqueue -270
+enqueue 973
+dequeue
+enqueue 395
+enqueue -873
+enqueue -585
+enqueue -35
+enqueue -226
+dequeue
+enqueue 722
+enqueue 665
+enqueue 197
+dequeue
+dequeue
+dequeue
+enqueue -790
+enqueue -914
+dequeue
+enqueue 230
+enqueue -289
+dequeue
+enqueue -40
+enqueue 691
+enqueue 947
+enqueue -653
+enqueue -166
+dequeue
+enqueue 71
+enqueue 301
+enqueue -830
+enqueue -710
+enqueue 541
+dequeue
+enqueue 188
+dequeue
+enqueue 605
+dequeue
+enqueue -580
+dequeue
+enqueue 863
+enqueue -297
+dequeue
+enqueue 701
+enqueue 506
+dequeue
+enqueue 917
+enqueue -2
+enqueue 974
+enqueue 383
+dequeue
+enqueue 585
+enqueue 758
+enqueue -561
+enqueue -883
+enqueue -778
+dequeue
+enqueue 549
+enqueue -142
+enqueue -220
+enqueue 142
+dequeue
+dequeue
+enqueue 848
+enqueue -929
+enqueue 28
+enqueue -690
+enqueue 197
+dequeue
+enqueue 897
+enqueue -43
+enqueue 651
+enqueue 995
+dequeue
+enqueue 580
+dequeue
+enqueue -145
+enqueue -392
+dequeue
+dequeue
+enqueue 955
+enqueue 122
+dequeue
+dequeue
+enqueue -826
+enqueue -300
+enqueue 55
+front
+enqueue 455
+enqueue 939
+dequeue
+enqueue -447
+enqueue 545
+enqueue -762
+enqueue -778
+enqueue 610
+enqueue -828
+enqueue 589
+enqueue -500
+enqueue 172
+enqueue -614
+enqueue 886
+dequeue
+enqueue 800
+enqueue 134
+dequeue
+enqueue -362
+enqueue -551
+front
+enqueue 905
+enqueue -303
+enqueue 573
+enqueue -603
+dequeue
+enqueue 531
+dequeue
+enqueue 621
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 322
+dequeue
+dequeue
+enqueue 527
+enqueue -447
+enqueue 942
+enqueue 904
+enqueue 451
+enqueue -13
+enqueue 178
+dequeue
+enqueue 215
+enqueue -762
+enqueue -259
+enqueue 99
+dequeue
+dequeue
+dequeue
+enqueue -848
+enqueue 415
+enqueue 399
+enqueue 1
+dequeue
+dequeue
+dequeue
+enqueue -387
+enqueue 597
+enqueue 737
+enqueue 64
+enqueue -183
+enqueue -321
+enqueue -775
+enqueue 485
+enqueue 74
+dequeue
+enqueue 516
+enqueue -849
+enqueue 131
+enqueue -977
+enqueue 104
+dequeue
+dequeue
+enqueue 659
+dequeue
+dequeue
+dequeue
+enqueue 998
+enqueue 96
+dequeue
+enqueue -480
+enqueue 288
+enqueue 778
+enqueue -342
+dequeue
+enqueue -56
+enqueue 356
+enqueue -838
+enqueue 927
+dequeue
+enqueue -824
+enqueue -719
+enqueue -761
+enqueue 804
+enqueue -366
+enqueue -985
+enqueue -846
+enqueue -151
+dequeue
+enqueue 0
+enqueue 182
+enqueue -338
+enqueue 723
+enqueue -662
+dequeue
+enqueue 733
+enqueue -974
+dequeue
+enqueue -246
+enqueue -532
+dequeue
+dequeue
+enqueue 270
+enqueue -516
+dequeue
+enqueue 534
+enqueue 909
+enqueue -542
+enqueue -535
+enqueue -369
+enqueue 991
+enqueue 260
+enqueue -841
+enqueue 787
+enqueue 56
+enqueue 959
+dequeue
+enqueue 420
+dequeue
+enqueue -991
+enqueue 617
+dequeue
+enqueue -120
+enqueue 421
+enqueue 827
+enqueue 719
+dequeue
+dequeue
+enqueue 707
+enqueue 3
+dequeue
+dequeue
+enqueue 855
+dequeue
+dequeue
+dequeue
+enqueue -2
+dequeue
+front
+enqueue 638
+enqueue 583
+enqueue -827
+enqueue 97
+dequeue
+dequeue
+enqueue -790
+enqueue 504
+enqueue -893
+enqueue -69
+enqueue -320
+enqueue 547
+dequeue
+enqueue 336
+enqueue -351
+enqueue 896
+enqueue -773
+dequeue
+enqueue 508
+dequeue
+enqueue 149
+dequeue
+enqueue 124
+dequeue
+enqueue 325
+enqueue 700
+enqueue 543
+enqueue 618
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue -977
+enqueue -230
+enqueue -891
+dequeue
+dequeue
+enqueue 562
+enqueue 903
+enqueue 464
+enqueue 28
+enqueue 206
+dequeue
+enqueue 656
+enqueue -541
+enqueue -485
+enqueue 138
+enqueue -861
+enqueue -163
+enqueue -869
+enqueue -802
+enqueue -371
+enqueue -74
+enqueue 660
+dequeue
+enqueue 488
+enqueue 116
+enqueue 314
+enqueue 861
+dequeue
+enqueue 627
+enqueue 927
+enqueue -248
+enqueue -161
+enqueue 698
+enqueue 9
+enqueue 600
+enqueue 933
+dequeue
+enqueue 749
+enqueue -577
+enqueue -491
+enqueue -657
+dequeue
+enqueue 750
+enqueue -31
+enqueue 531
+enqueue -107
+enqueue 958
+enqueue -16
+enqueue -289
+enqueue 766
+dequeue
+enqueue 938
+enqueue -441
+dequeue
+enqueue -667
+enqueue 231
+enqueue 870
+enqueue 551
+enqueue -964
+dequeue
+enqueue -544
+enqueue -516
+enqueue 200
+dequeue
+dequeue
+enqueue -997
+enqueue 18
+dequeue
+enqueue 354
+enqueue -991
+enqueue 898
+enqueue -789
+enqueue 916
+enqueue 626
+dequeue
+enqueue -740
+dequeue
+enqueue 646
+enqueue 304
+enqueue 533
+enqueue -391
+enqueue -511
+enqueue 311
+enqueue -283
+enqueue 41
+enqueue -71
+dequeue
+enqueue 29
+enqueue -559
+dequeue
+enqueue 821
+dequeue
+enqueue 38
+enqueue 916
+enqueue -626
+dequeue
+enqueue 4
+enqueue -539
+dequeue
+enqueue 201
+enqueue 314
+dequeue
+enqueue -163
+dequeue
+dequeue
+enqueue 979
+enqueue 108
+enqueue 771
+enqueue 808
+dequeue
+dequeue
+enqueue 889
+enqueue 792
+dequeue
+enqueue -70
+dequeue
+enqueue 949
+dequeue
+enqueue 252
+dequeue
+enqueue -463
+dequeue
+enqueue 790
+enqueue -173
+enqueue -526
+enqueue 878
+dequeue
+enqueue -47
+enqueue -607
+enqueue -122
+enqueue -247
+enqueue 743
+dequeue
+dequeue
+enqueue -856
+enqueue 437
+enqueue 115
+enqueue 230
+dequeue
+enqueue 292
+enqueue 280
+dequeue
+enqueue -186
+enqueue -709
+enqueue 12
+enqueue 796
+dequeue
+enqueue -229
+enqueue -44
+enqueue -728
+enqueue -416
+enqueue 310
+enqueue 469
+enqueue 220
+dequeue
+dequeue
+enqueue 192
+enqueue 862
+enqueue -267
+dequeue
+enqueue 553
+enqueue -381
+dequeue
+enqueue 406
+dequeue
+enqueue 854
+enqueue -184
+enqueue 976
+enqueue -592
+enqueue 335
+dequeue
+dequeue
+enqueue 189
+enqueue 268
+dequeue
+enqueue -394
+enqueue -513
+enqueue 861
+enqueue 47
+enqueue -774
+dequeue
+enqueue -579
+dequeue
+enqueue -529
+enqueue 432
+enqueue 267
+dequeue
+dequeue
+dequeue
+enqueue -28
+enqueue 107
+enqueue -411
+enqueue 559
+enqueue -386
+enqueue -398
+enqueue 223
+dequeue
+dequeue
+dequeue
+enqueue 144
+enqueue 190
+enqueue -446
+enqueue 294
+dequeue
+enqueue -932
+enqueue -382
+dequeue
+enqueue -926
+enqueue 604
+enqueue 434
+enqueue -735
+enqueue -131
+enqueue 844
+enqueue 637
+enqueue 645
+enqueue 545
+enqueue -421
+enqueue -972
+enqueue -776
+enqueue -387
+enqueue -199
+enqueue 306
+enqueue -335
+dequeue
+enqueue -258
+enqueue 433
+enqueue 986
+enqueue -646
+enqueue 251
+dequeue
+dequeue
+enqueue -392
+dequeue
+dequeue
+enqueue -250
+enqueue -715
+dequeue
+enqueue 818
+dequeue
+enqueue 389
+enqueue -658
+dequeue
+enqueue 549
+enqueue -580
+dequeue
+dequeue
+enqueue 125
+enqueue -27
+enqueue 689
+enqueue -825
+dequeue
+enqueue -960
+dequeue
+enqueue 390
+dequeue
+dequeue
+dequeue
+enqueue -805
+enqueue -67
+enqueue 164
+enqueue -416
+enqueue -807
+enqueue -633
+dequeue
+enqueue 369
+dequeue
+enqueue 513
+dequeue
+enqueue 438
+enqueue -456
+dequeue
+enqueue -631
+dequeue
+enqueue -479
+dequeue
+dequeue
+dequeue
+enqueue -301
+dequeue
+enqueue -313
+enqueue 404
+enqueue 163
+dequeue
+enqueue -959
+enqueue -282
+enqueue -649
+dequeue
+enqueue 592
+enqueue 838
+enqueue -571
+enqueue 175
+enqueue -700
+enqueue -803
+enqueue 419
+dequeue
+enqueue -673
+enqueue -796
+enqueue 125
+enqueue 593
+enqueue 735
+enqueue -944
+dequeue
+enqueue 973
+enqueue 135
+enqueue 707
+enqueue -363
+dequeue
+enqueue -593
+enqueue -784
+enqueue -186
+enqueue 169
+enqueue -801
+dequeue
+enqueue 960
+enqueue 154
+dequeue
+enqueue 651
+enqueue 536
+enqueue 179
+dequeue
+enqueue 902
+enqueue 671
+enqueue 135
+dequeue
+enqueue 504
+enqueue -850
+dequeue
+dequeue
+enqueue -982
+enqueue 18
+dequeue
+dequeue
+enqueue 983
+enqueue 163
+enqueue -853
+dequeue
+enqueue 921
+enqueue -246
+enqueue 850
+dequeue
+dequeue
+enqueue -888
+dequeue
+dequeue
+enqueue 235
+dequeue
+enqueue -182
+enqueue -846
+dequeue
+dequeue
+enqueue -244
+dequeue
+dequeue
+enqueue 156
+enqueue -492
+enqueue -581
+enqueue -218
+enqueue 980
+enqueue 774
+dequeue
+dequeue
+enqueue 483
+enqueue 741
+dequeue
+enqueue -425
+dequeue
+enqueue -844
+dequeue
+dequeue
+enqueue -822
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 375
+enqueue -167
+enqueue -956
+enqueue -547
+enqueue 209
+dequeue
+dequeue
+enqueue -465
+dequeue
+dequeue
+enqueue -389
+dequeue
+enqueue 245
+enqueue -495
+dequeue
+enqueue 998
+enqueue -931
+dequeue
+dequeue
+dequeue
+enqueue 323
+enqueue 195
+enqueue -968
+dequeue
+dequeue
+enqueue 775
+enqueue 496
+enqueue 843
+enqueue -463
+enqueue 182
+enqueue -530
+enqueue 940
+enqueue -688
+dequeue
+enqueue -708
+enqueue 142
+enqueue -227
+enqueue 863
+dequeue
+dequeue
+enqueue 249
+enqueue 210
+dequeue
+enqueue -36
+enqueue 169
+enqueue -769
+dequeue
+enqueue -775
+enqueue -857
+enqueue -988
+enqueue 539
+enqueue -732
+dequeue
+dequeue
+enqueue 735
+enqueue 78
+enqueue -558
+enqueue 459
+enqueue 329
+enqueue -971
+enqueue -334
+enqueue -172
+enqueue -109
+enqueue -767
+dequeue
+enqueue -731
+dequeue
+dequeue
+enqueue 364
+enqueue 549
+dequeue
+enqueue 210
+enqueue 619
+enqueue 78
+dequeue
+enqueue 44
+enqueue 922
+enqueue 596
+enqueue 402
+enqueue 267
+enqueue -456
+enqueue 131
+enqueue 718
+enqueue 781
+enqueue 611
+enqueue 453
+enqueue -693
+enqueue 53
+enqueue -755
+enqueue -718
+dequeue
+dequeue
+enqueue 65
+enqueue 63
+enqueue -979
+dequeue
+enqueue -6
+dequeue
+enqueue 622
+dequeue
+enqueue -598
+enqueue -586
+dequeue
+enqueue -198
+enqueue -813
+enqueue 955
+dequeue
+dequeue
+enqueue -453
+dequeue
+enqueue 925
+enqueue 458
+enqueue 194
+enqueue 908
+enqueue -82
+dequeue
+enqueue -19
+enqueue 79
+enqueue -481
+dequeue
+enqueue -402
+enqueue -597
+enqueue 945
+enqueue -541
+enqueue 98
+dequeue
+enqueue -113
+enqueue -100
+enqueue -862
+enqueue 980
+dequeue
+dequeue
+enqueue -94
+enqueue 259
+enqueue -576
+dequeue
+enqueue 144
+enqueue 955
+dequeue
+dequeue
+enqueue 771
+enqueue 473
+enqueue 157
+enqueue -779
+enqueue 180
+dequeue
+dequeue
+dequeue
+enqueue 949
+enqueue -55
+enqueue 877
+enqueue -325
+enqueue 469
+dequeue
+enqueue 115
+enqueue -340
+dequeue
+enqueue 692
+dequeue
+enqueue -378
+enqueue 459
+enqueue 803
+dequeue
+dequeue
+enqueue -779
+enqueue 916
+enqueue -439
+enqueue -191
+dequeue
+dequeue
+enqueue -736
+enqueue -953
+enqueue 993
+enqueue -514
+enqueue 731
+enqueue -3
+enqueue -420
+enqueue -695
+enqueue 522
+enqueue -649
+enqueue 480
+enqueue 743
+dequeue
+enqueue -836
+dequeue
+enqueue 688
+dequeue
+enqueue 959
+enqueue -763
+dequeue
+dequeue
+dequeue
+enqueue 991
+enqueue 972
+enqueue 17
+dequeue
+enqueue -316
+enqueue -588
+dequeue
+enqueue -60
+dequeue
+enqueue -640
+enqueue -917
+dequeue
+enqueue 516
+enqueue 480
+dequeue
+dequeue
+enqueue 689
+dequeue
+enqueue 633
+dequeue
+enqueue 187
+enqueue -638
+dequeue
+enqueue -884
+dequeue
+dequeue
+enqueue -673
+dequeue
+dequeue
+enqueue 404
+enqueue 360
+enqueue 613
+enqueue 700
+dequeue
+enqueue -509
+enqueue -76
+enqueue -324
+dequeue
+enqueue -807
+dequeue
+enqueue 579
+enqueue -188
+dequeue
+enqueue -300
+enqueue -952
+enqueue -841
+enqueue 738
+dequeue
+enqueue 662
+enqueue 303
+enqueue 930
+dequeue
+dequeue
+enqueue -238
+enqueue -956
+enqueue 476
+enqueue -446
+dequeue
+enqueue 468
+dequeue
+enqueue 908
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 978
+dequeue
+dequeue
+enqueue 63
+enqueue -647
+enqueue -110
+enqueue -606
+enqueue 641
+dequeue
+dequeue
+enqueue -248
+dequeue
+enqueue -798
+enqueue 243
+dequeue
+enqueue 464
+enqueue -714
+enqueue -472
+dequeue
+enqueue 758
+dequeue
+enqueue -563
+enqueue 550
+dequeue
+enqueue -1000
+enqueue 858
+enqueue -760
+enqueue -514
+enqueue 393
+enqueue 353
+enqueue -770
+enqueue 175
+dequeue
+enqueue 574
+enqueue -525
+enqueue -429
+enqueue -363
+dequeue
+enqueue 301
+enqueue 910
+enqueue -524
+enqueue 241
+dequeue
+enqueue -493
+dequeue
+dequeue
+dequeue
+enqueue -443
+dequeue
+enqueue -721
+dequeue
+enqueue 270
+enqueue -102
+enqueue 532
+enqueue 596
+dequeue
+dequeue
+enqueue -673
+dequeue
+enqueue -137
+enqueue -737
+enqueue 56
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue -271
+enqueue -35
+enqueue 59
+dequeue
+enqueue 203
+enqueue 434
+dequeue
+enqueue 281
+dequeue
+dequeue
+enqueue -961
+enqueue 920
+enqueue -985
+dequeue
+enqueue -290
+enqueue 706
+dequeue
+enqueue -118
+enqueue 202
+enqueue 888
+enqueue -54
+enqueue 500
+dequeue
+dequeue
+enqueue 967
+enqueue -277
+dequeue
+enqueue 430
+enqueue 312
+enqueue -302
+dequeue
+enqueue -286
+enqueue -685
+enqueue -907
+enqueue -603
+dequeue
+enqueue -62
+enqueue -186
+dequeue
+enqueue 578
+enqueue 901
+enqueue -538
+dequeue
+enqueue -818
+dequeue
+enqueue 856
+enqueue -566
+enqueue 604
+enqueue -997
+enqueue 381
+dequeue
+enqueue -924
+enqueue -132
+enqueue -637
+enqueue -531
+enqueue 199
+enqueue -238
+dequeue
+enqueue -91
+enqueue 984
+dequeue
+enqueue -549
+dequeue
+enqueue -901
+enqueue 200
+enqueue 601
+dequeue
+enqueue 339
+enqueue 481
+dequeue
+enqueue 170
+dequeue
+enqueue 966
+enqueue 210
+enqueue -222
+enqueue 874
+dequeue
+enqueue -31
+enqueue -556
+enqueue -35
+dequeue
+enqueue -798
+dequeue
+enqueue 718
+enqueue 530
+enqueue 844
+dequeue
+enqueue 393
+dequeue
+dequeue
+enqueue 58
+dequeue
+dequeue
+enqueue -102
+enqueue -377
+enqueue -621
+enqueue -97
+enqueue 705
+enqueue -233
+enqueue 812
+enqueue -654
+enqueue 195
+enqueue -520
+dequeue
+dequeue
+enqueue 843
+enqueue 707
+dequeue
+dequeue
+enqueue -705
+enqueue 760
+enqueue 746
+enqueue -459
+dequeue
+enqueue 740
+enqueue -75
+dequeue
+dequeue
+enqueue 647
+enqueue 640
+dequeue
+dequeue
+enqueue -406
+enqueue 959
+enqueue -852
+enqueue -931
+dequeue
+enqueue -725
+enqueue 599
+enqueue 343
+dequeue
+dequeue
+enqueue -261
+enqueue 967
+dequeue
+dequeue
+enqueue -54
+enqueue -813
+dequeue
+enqueue 919
+dequeue
+enqueue 366
+enqueue 684
+enqueue -282
+enqueue 652
+enqueue -56
+enqueue -227
+dequeue
+dequeue
+enqueue 695
+enqueue 591
+enqueue 378
+enqueue 626
+dequeue
+enqueue 766
+enqueue -4
+enqueue 644
+dequeue
+enqueue -735
+enqueue 936
+dequeue
+dequeue
+enqueue 489
+dequeue
+enqueue 957
+enqueue 944
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 313
+dequeue
+dequeue
+enqueue -474
+enqueue 943
+dequeue
+enqueue 540
+dequeue
+dequeue
+dequeue
+enqueue -138
+enqueue -659
+enqueue -708
+enqueue -928
+enqueue -773
+enqueue -565
+dequeue
+enqueue 326
+enqueue 463
+enqueue -904
+dequeue
+enqueue -890
+enqueue 404
+enqueue -66
+enqueue 15
+dequeue
+enqueue -588
+enqueue 990
+enqueue -8
+enqueue 551
+dequeue
+enqueue 188
+dequeue
+dequeue
+dequeue
+enqueue 469
+dequeue
+enqueue -942
+dequeue
+dequeue
+enqueue 820
+enqueue -276
+enqueue -620
+enqueue -271
+dequeue
+enqueue 584
+dequeue
+dequeue
+enqueue -826
+enqueue -625
+enqueue -184
+dequeue
+enqueue -876
+enqueue 479
+dequeue
+dequeue
+dequeue
+enqueue 739
+enqueue -160
+enqueue -476
+enqueue 230
+enqueue 801
+enqueue -967
+dequeue
+dequeue
+enqueue -434
+enqueue 839
+enqueue -827
+dequeue
+dequeue
+dequeue
+enqueue 430
+enqueue -846
+enqueue -177
+enqueue -169
+enqueue -359
+enqueue 2
+dequeue
+dequeue
+enqueue -400
+enqueue -383
+dequeue
+dequeue
+enqueue -934
+enqueue -127
+dequeue
+dequeue
+dequeue
+enqueue -213
+enqueue 49
+dequeue
+enqueue 208
+enqueue 921
+enqueue 133
+enqueue 199
+enqueue 275
+enqueue -424
+enqueue 265
+enqueue -831
+enqueue -328
+enqueue 234
+enqueue 492
+dequeue
+enqueue -225
+enqueue -863
+enqueue 278
+enqueue 965
+enqueue 324
+dequeue
+dequeue
+dequeue
+enqueue -749
+enqueue 838
+enqueue 977
+enqueue -701
+enqueue 132
+enqueue -839
+enqueue 951
+enqueue -390
+dequeue
+enqueue 228
+dequeue
+dequeue
+dequeue
+enqueue 571
+enqueue -69
+enqueue 543
+enqueue 493
+dequeue
+enqueue -378
+enqueue 802
+enqueue -579
+enqueue -279
+enqueue -413
+enqueue 624
+dequeue
+enqueue 463
+dequeue
+dequeue
+enqueue 113
+enqueue 169
+enqueue 608
+enqueue 0
+enqueue 814
+enqueue 599
+enqueue 325
+dequeue
+enqueue 277
+enqueue -900
+enqueue 785
+dequeue
+enqueue -190
+enqueue 620
+enqueue -701
+enqueue -503
+dequeue
+dequeue
+enqueue 312
+enqueue -300
+enqueue -278
+dequeue
+enqueue 894
+dequeue
+enqueue -444
+enqueue 881
+dequeue
+enqueue 414
+enqueue 234
+enqueue -368
+enqueue 535
+enqueue 178
+enqueue 907
+dequeue
+enqueue -605
+enqueue -679
+dequeue
+dequeue
+enqueue 547
+enqueue 383
+enqueue -325
+dequeue
+dequeue
+dequeue
+enqueue -326
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 495
+enqueue 465
+dequeue
+enqueue 117
+enqueue -845
+enqueue -533
+enqueue 938
+enqueue 33
+enqueue 704
+enqueue -843
+enqueue 801
+enqueue -334
+enqueue -578
+enqueue -271
+enqueue 353
+enqueue -693
+enqueue 822
+dequeue
+enqueue -303
+enqueue 108
+enqueue -636
+dequeue
+enqueue 178
+dequeue
+enqueue -355
+enqueue 844
+enqueue 243
+dequeue
+dequeue
+enqueue -502
+dequeue
+enqueue 388
+dequeue
+enqueue -530
+enqueue 82
+dequeue
+dequeue
+enqueue -718
+enqueue 693
+enqueue -410
+dequeue
+enqueue 281
+enqueue -255
+enqueue 285
+enqueue 150
+enqueue 526
+enqueue -4
+dequeue
+enqueue 329
+dequeue
+enqueue -394
+enqueue 876
+enqueue 557
+enqueue -797
+enqueue -15
+enqueue -149
+enqueue 380
+enqueue -514
+enqueue -286
+enqueue 513
+dequeue
+enqueue 10
+enqueue 606
+dequeue
+enqueue -96
+dequeue
+enqueue 400
+enqueue 550
+enqueue 717
+dequeue
+enqueue -241
+dequeue
+enqueue 430
+dequeue
+dequeue
+enqueue 588
+dequeue
+enqueue -133
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue -336
+dequeue
+enqueue -141
+dequeue
+dequeue
+enqueue 10
+dequeue
+enqueue 727
+enqueue -846
+dequeue
+enqueue 477
+dequeue
+enqueue -962
+enqueue -781
+enqueue 574
+enqueue -143
+enqueue 629
+enqueue 636
+dequeue
+dequeue
+dequeue
+enqueue 488
+dequeue
+enqueue -76
+dequeue
+enqueue 439
+enqueue 338
+enqueue 525
+enqueue -978
+dequeue
+enqueue -118
+dequeue
+enqueue 568
+enqueue -972
+dequeue
+enqueue 167
+dequeue
+enqueue -275
+dequeue
+enqueue -528
+enqueue -961
+enqueue -134
+enqueue 288
+dequeue
+enqueue -462
+dequeue
+dequeue
+enqueue -349
+dequeue
+dequeue
+dequeue
+enqueue 619
+enqueue 522
+enqueue 481
+enqueue -424
+enqueue 622
+enqueue 559
+dequeue
+dequeue
+enqueue 182
+enqueue -663
+enqueue -892
+enqueue -129
+enqueue 130
+dequeue
+enqueue 787
+enqueue -878
+enqueue 778
+enqueue -480
+dequeue
+enqueue 528
+enqueue -445
+enqueue 651
+enqueue -688
+enqueue -922
+enqueue -831
+enqueue -575
+enqueue 767
+enqueue 450
+dequeue
+enqueue 497
+enqueue 326
+enqueue 173
+enqueue -639
+enqueue -965
+enqueue -96
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue -209
+enqueue -291
+enqueue -63
+enqueue -66
+enqueue -636
+enqueue 611
+enqueue -543
+dequeue
+dequeue
+enqueue 72
+enqueue -510
+dequeue
+dequeue
+enqueue 537
+dequeue
+enqueue -521
+enqueue 456
+enqueue -828
+enqueue -485
+dequeue
+enqueue -536
+dequeue
+dequeue
+enqueue -304
+enqueue -51
+enqueue -859
+enqueue 375
+dequeue
+enqueue 460
+enqueue 167
+dequeue
+enqueue -366
+enqueue -281
+dequeue
+dequeue
+dequeue
+enqueue 661
+enqueue -825
+enqueue -809
+dequeue
+enqueue -730
+enqueue 39
+enqueue 79
+enqueue 168
+dequeue
+enqueue 285
+enqueue 551
+dequeue
+enqueue -895
+dequeue
+enqueue -416
+enqueue -859
+enqueue 390
+dequeue
+dequeue
+enqueue 585
+enqueue 103
+enqueue -978
+enqueue 716
+enqueue -758
+enqueue -612
+dequeue
+enqueue 527
+enqueue -308
+enqueue 358
+dequeue
+enqueue -952
+dequeue
+enqueue 942
+enqueue -202
+enqueue 373
+enqueue -675
+dequeue
+enqueue -207
+enqueue 373
+dequeue
+dequeue
+dequeue
+enqueue -540
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue -471
+enqueue 752
+enqueue 819
+enqueue 998
+enqueue 612
+enqueue 573
+enqueue -784
+dequeue
+dequeue
+enqueue -735
+enqueue -781
+enqueue 152
+enqueue -823
+dequeue
+enqueue -707
+dequeue
+enqueue 744
+enqueue 33
+enqueue -98
+enqueue -69
+dequeue
+enqueue 607
+enqueue 959
+dequeue
+dequeue
+enqueue -182
+dequeue
+dequeue
+enqueue 825
+dequeue
+dequeue
+enqueue -589
+enqueue -752
+enqueue -956
+dequeue
+enqueue 972
+enqueue 927
+enqueue -605
+dequeue
+enqueue 331
+enqueue -946
+enqueue 660
+enqueue 646
+enqueue -438
+enqueue 988
+enqueue -393
+enqueue 955
+enqueue 401
+dequeue
+enqueue 487
+enqueue 553
+enqueue -990
+enqueue -500
+enqueue 691
+enqueue 386
+enqueue -448
+enqueue -381
+enqueue -125
+dequeue
+dequeue
+dequeue
+enqueue 995
+enqueue -869
+dequeue
+enqueue -486
+enqueue 509
+enqueue 410
+dequeue
+enqueue 128
+dequeue
+enqueue -293
+enqueue -662
+enqueue 148
+dequeue
+dequeue
+enqueue -530
+enqueue -436
+enqueue 807
+enqueue 814
+dequeue
+enqueue -222
+enqueue 741
+dequeue
+enqueue -587
+enqueue -189
+enqueue 303
+enqueue -20
+enqueue -312
+enqueue -943
+dequeue
+dequeue
+enqueue 160
+enqueue -203
+enqueue -364
+dequeue
+enqueue -172
+enqueue -518
+dequeue
+enqueue 979
+enqueue -660
+enqueue 590
+enqueue 719
+enqueue 673
+enqueue 304
+dequeue
+dequeue
+enqueue -43
+dequeue
+enqueue -174
+enqueue -666
+dequeue
+dequeue
+dequeue
+enqueue 82
+enqueue 19
+enqueue 407
+dequeue
+dequeue
+enqueue 521
+dequeue
+enqueue -547
+dequeue
+enqueue 243
+enqueue -977
+dequeue
+enqueue -391
+enqueue 292
+enqueue -848
+enqueue 966
+enqueue 504
+enqueue 534
+enqueue -438
+dequeue
+dequeue
+enqueue -512
+enqueue 775
+dequeue
+dequeue
+enqueue -440
+enqueue 682
+dequeue
+dequeue
+enqueue -529
+enqueue -889
+enqueue -156
+dequeue
+dequeue
+enqueue 736
+enqueue -912
+enqueue 626
+enqueue 624
+enqueue -298
+dequeue
+enqueue 288
+enqueue 466
+dequeue
+dequeue
+enqueue -674
+enqueue 431
+dequeue
+enqueue -563
+enqueue -639
+dequeue
+dequeue
+enqueue -196
+enqueue -422
+enqueue -143
+dequeue
+dequeue
+enqueue 297
+enqueue -791
+enqueue -111
+dequeue
+dequeue
+enqueue -808
+enqueue 46
+enqueue 611
+enqueue -982
+enqueue -810
+enqueue 558
+enqueue -133
+dequeue
+enqueue -468
+dequeue
+dequeue
+enqueue 432
+enqueue -775
+enqueue -84
+enqueue -145
+dequeue
+enqueue 64
+enqueue -643
+enqueue -422
+enqueue 189
+enqueue 80
+enqueue 666
+enqueue -220
+enqueue 588
+dequeue
+enqueue 322
+enqueue 263
+dequeue
+dequeue
+dequeue
+enqueue 623
+enqueue -771
+dequeue
+dequeue
+enqueue 546
+dequeue
+dequeue
+enqueue -942
+enqueue -955
+enqueue 187
+enqueue -757
+dequeue
+enqueue -327
+dequeue
+enqueue -685
+enqueue 772
+enqueue 435
+enqueue 725
+enqueue 314
+enqueue -891
+enqueue -199
+enqueue 929
+enqueue 936
+enqueue 366
+dequeue
+enqueue -245
+dequeue
+dequeue
+enqueue -552
+enqueue -813
+enqueue -415
+enqueue -389
+dequeue
+dequeue
+enqueue 200
+enqueue -591
+enqueue -78
+enqueue -609
+enqueue -373
+dequeue
+enqueue 53
+enqueue 235
+dequeue
+enqueue 707
+dequeue
+enqueue 804
+dequeue
+enqueue 523
+enqueue -745
+dequeue
+enqueue 780
+enqueue 361
+enqueue 194
+enqueue -735
+enqueue -901
+enqueue -286
+enqueue -358
+enqueue -426
+dequeue
+enqueue -661
+enqueue 555
+enqueue -876
+enqueue 681
+enqueue 861
+enqueue 481
+dequeue
+enqueue -771
+enqueue -452
+enqueue -486
+enqueue 287
+enqueue -923
+enqueue -854
+dequeue
+dequeue
+enqueue 728
+enqueue -981
+dequeue
+dequeue
+enqueue -80
+dequeue
+enqueue -443
+enqueue 397
+enqueue 875
+enqueue -309
+enqueue -325
+dequeue
+enqueue -560
+dequeue
+enqueue 120
+enqueue 742
+enqueue 447
+enqueue 83
+dequeue
+enqueue -874
+enqueue 694
+enqueue 694
+dequeue
+dequeue
+enqueue -820
+enqueue 979
+dequeue
+enqueue -564
+dequeue
+enqueue 716
+enqueue 990
+dequeue
+enqueue 512
+dequeue
+enqueue -756
+dequeue
+dequeue
+enqueue -749
+enqueue 342
+enqueue 770
+dequeue
+enqueue -624
+dequeue
+enqueue -233
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue -695
+enqueue 146
+enqueue -23
+enqueue -628
+enqueue -528
+enqueue -29
+enqueue 118
+dequeue
+dequeue
+enqueue 142
+enqueue 374
+enqueue -970
+enqueue 68
+dequeue
+enqueue -919
+enqueue 464
+enqueue 694
+enqueue 773
+enqueue 389
+dequeue
+enqueue -168
+dequeue
+enqueue -218
+enqueue 659
+dequeue
+dequeue
+enqueue -184
+enqueue 23
+enqueue -719
+enqueue -523
+enqueue -399
+enqueue 103
+dequeue
+dequeue
+enqueue -719
+enqueue 133
+dequeue
+enqueue 916
+enqueue -522
+dequeue
+enqueue -287
+dequeue
+enqueue -790
+enqueue -897
+enqueue 874
+dequeue
+enqueue 43
+enqueue -130
+dequeue
+enqueue -308
+enqueue 352
+enqueue 672
+enqueue -872
+dequeue
+enqueue 738
+enqueue 852
+dequeue
+enqueue -85
+enqueue -564
+enqueue 623
+dequeue
+enqueue 260
+enqueue -772
+enqueue -86
+enqueue 749
+enqueue -10
+enqueue 611
+enqueue 810
+dequeue
+enqueue 616
+enqueue -948
+enqueue 138
+enqueue -452
+enqueue 612
+enqueue 354
+enqueue 925
+enqueue -982
+enqueue -495
+enqueue 346
+enqueue -677
+enqueue 392
+enqueue 163
+dequeue
+enqueue -967
+enqueue 483
+enqueue -872
+enqueue -665
+enqueue 872
+enqueue 539
+enqueue 78
+dequeue
+enqueue -706
+enqueue -295
+enqueue -489
+dequeue
+dequeue
+enqueue 725
+enqueue 634
+enqueue 436
+enqueue -687
+enqueue 927
+enqueue 974
+enqueue 211
+enqueue -125
+enqueue -302
+enqueue -945
+enqueue 603
+enqueue -817
+dequeue
+enqueue -594
+dequeue
+enqueue 771
+dequeue
+dequeue
+enqueue 436
+enqueue 865
+enqueue -932
+enqueue -853
+dequeue
+enqueue 741
+dequeue
+enqueue 726
+enqueue 504
+dequeue
+dequeue
+enqueue 35
+dequeue
+enqueue 652
+enqueue -1000
+enqueue -412
+enqueue 347
+enqueue -966
+enqueue -700
+enqueue -450
+dequeue
+enqueue 529
+enqueue 912
+front
+dequeue
+enqueue -605
+enqueue -213
+dequeue
+dequeue
+enqueue -958
+dequeue
+enqueue 118
+dequeue
+dequeue
+dequeue
+enqueue 103
+enqueue -213
+enqueue 160
+enqueue 425
+dequeue
+enqueue -972
+dequeue
+enqueue -765
+enqueue 146
+enqueue -336
+enqueue -296
+enqueue -857
+enqueue 65
+enqueue 173
+enqueue -393
+enqueue 457
+dequeue
+enqueue 326
+enqueue -569
+enqueue 600
+enqueue 237
+enqueue 764
+enqueue -774
+dequeue
+enqueue -927
+enqueue -222
+enqueue -884
+dequeue
+enqueue 178
+enqueue 261
+dequeue
+enqueue -384
+enqueue -675
+enqueue -149
+enqueue -814
+dequeue
+enqueue -654
+enqueue -118
+enqueue 452
+dequeue
+enqueue 261
+dequeue
+enqueue 541
+enqueue -278
+enqueue 845
+enqueue 593
+enqueue 790
+enqueue 440
+enqueue -433
+dequeue
+enqueue 218
+enqueue -429
+enqueue -97
+enqueue 335
+dequeue
+enqueue -621
+enqueue -341
+enqueue -933
+enqueue -771
+dequeue
+enqueue 76
+enqueue -842
+enqueue -308
+enqueue 455
+enqueue -892
+enqueue -460
+dequeue
+enqueue -405
+dequeue
+enqueue -869
+dequeue
+dequeue
+enqueue -623
+dequeue
+enqueue -946
+enqueue 539
+enqueue 334
+enqueue -109
+dequeue
+enqueue 229
+dequeue
+enqueue 906
+enqueue 7
+enqueue -518
+enqueue 912
+dequeue
+enqueue -376
+dequeue
+enqueue 84
+enqueue 757
+enqueue 819
+enqueue 762
+enqueue 179
+enqueue 47
+enqueue 326
+enqueue 601
+dequeue
+enqueue 608
+dequeue
+dequeue
+enqueue 351
+dequeue
+enqueue 487
+enqueue 247
+enqueue -492
+enqueue -788
+enqueue -858
+enqueue 477
+enqueue 411
+dequeue
+enqueue -587
+dequeue
+enqueue 38
+enqueue 724
+enqueue -425
+enqueue 389
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 505
+enqueue 132
+enqueue 878
+enqueue 685
+enqueue 400
+enqueue -770
+enqueue -609
+enqueue 218
+enqueue 526
+enqueue -155
+dequeue
+enqueue -198
+enqueue 215
+enqueue 999
+enqueue -6
+enqueue 556
+dequeue
+enqueue 831
+enqueue -184
+enqueue 296
+dequeue
+dequeue
+enqueue -156
+enqueue 2
+dequeue
+enqueue 765
+enqueue -311
+dequeue
+enqueue 535
+dequeue
+enqueue -758
+enqueue -870
+dequeue
+enqueue 759
+enqueue 11
+enqueue -4
+enqueue -286
+enqueue -778
+dequeue
+enqueue -791
+enqueue -254
+dequeue
+enqueue 719
+enqueue -142
+dequeue
+dequeue
+enqueue 862
+enqueue -527
+enqueue 360
+enqueue -440
+enqueue 755
+enqueue -765
+enqueue -40
+enqueue -378
+dequeue
+enqueue -9
+enqueue 777
+enqueue 530
+enqueue 722
+dequeue
+enqueue -346
+enqueue -767
+dequeue
+enqueue 114
+enqueue 638
+enqueue 724
+dequeue
+dequeue
+dequeue
+enqueue 258
+enqueue 798
+enqueue -889
+dequeue
+enqueue -424
+dequeue
+enqueue 939
+enqueue 217
+dequeue
+enqueue 639
+enqueue 150
+dequeue
+enqueue -718
+enqueue -916
+enqueue 19
+enqueue 724
+enqueue -590
+enqueue 548
+enqueue 291
+dequeue
+enqueue 912
+dequeue
+enqueue -17
+enqueue 329
+enqueue 534
+enqueue -556
+dequeue
+enqueue -760
+dequeue
+enqueue 554
+enqueue 201
+enqueue -459
+enqueue 815
+dequeue
+dequeue
+dequeue
+enqueue 264
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue -174
+enqueue -837
+enqueue -102
+enqueue 303
+enqueue 939
+enqueue -554
+enqueue 479
+dequeue
+enqueue 732
+dequeue
+enqueue -58
+dequeue
+enqueue 44
+enqueue -937
+enqueue -1
+enqueue -782
+enqueue 576
+dequeue
+enqueue 293
+enqueue 864
+enqueue 547
+enqueue -79
+enqueue -950
+dequeue
+enqueue 795
+dequeue
+enqueue -161
+enqueue -639
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 362
+enqueue 323
+enqueue 368
+enqueue 121
+enqueue 906
+enqueue -546
+enqueue -439
+enqueue 812
+enqueue 499
+enqueue 31
+dequeue
+dequeue
+dequeue
+enqueue -102
+enqueue -691
+dequeue
+enqueue -378
+dequeue
+enqueue 488
+enqueue -146
+dequeue
+enqueue -394
+enqueue -862
+enqueue 547
+enqueue 56
+dequeue
+enqueue -603
+enqueue -785
+enqueue 345
+enqueue 387
+enqueue -774
+enqueue -223
+enqueue 663
+dequeue
+enqueue -803
+dequeue
+enqueue 195
+enqueue -599
+enqueue 322
+enqueue 847
+enqueue -560
+enqueue 832
+enqueue -123
+dequeue
+enqueue -431
+enqueue 912
+dequeue
+dequeue
+enqueue -57
+enqueue -125
+enqueue 48
+enqueue -308
+enqueue 639
+enqueue 296
+enqueue 884
+dequeue
+enqueue 883
+enqueue 164
+enqueue -527
+enqueue -996
+enqueue 258
+enqueue 510
+dequeue
+dequeue
+enqueue 207
+enqueue 617
+enqueue 71
+enqueue 563
+enqueue 713
+dequeue
+enqueue 508
+dequeue
+dequeue
+enqueue -660
+enqueue 119
+enqueue 214
+enqueue -608
+enqueue -259
+enqueue 2
+dequeue
+enqueue -986
+enqueue 387
+dequeue
+enqueue -544
+enqueue 528
+enqueue -513
+enqueue 931
+enqueue -190
+dequeue
+enqueue -107
+enqueue -582
+dequeue
+enqueue 272
+dequeue
+enqueue -587
+enqueue 270
+enqueue -557
+enqueue 800
+enqueue -130
+enqueue -776
+dequeue
+enqueue 738
+enqueue -164
+enqueue 739
+enqueue -151
+enqueue -98
+enqueue -148
+dequeue
+enqueue 361
+dequeue
+enqueue 77
+enqueue 160
+enqueue 936
+dequeue
+enqueue 326
+dequeue
+enqueue 770
+enqueue 479
+dequeue
+enqueue -311
+dequeue
+enqueue -320
+enqueue 246
+dequeue
+dequeue
+dequeue
+enqueue 18
+enqueue -409
+enqueue 984
+enqueue -963
+enqueue 437
+enqueue 624
+enqueue 870
+enqueue -271
+enqueue 243
+enqueue 612
+enqueue -767
+dequeue
+enqueue -779
+enqueue -690
+enqueue 172
+enqueue -830
+dequeue
+dequeue
+enqueue 778
+enqueue -814
+enqueue 197
+dequeue
+enqueue -815
+enqueue -686
+enqueue 903
+enqueue 663
+enqueue 595
+dequeue
+enqueue 31
+dequeue
+enqueue 724
+enqueue -55
+enqueue -294
+enqueue 697
+enqueue 613
+dequeue
+enqueue -39
+enqueue 853
+enqueue 192
+dequeue
+enqueue 608
+dequeue
+dequeue
+enqueue 557
+dequeue
+enqueue -603
+enqueue -175
+enqueue -701
+dequeue
+enqueue 146
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 899
+enqueue 379
+enqueue 482
+enqueue 409
+enqueue 908
+enqueue 594
+enqueue -472
+dequeue
+enqueue -920
+dequeue
+enqueue -307
+enqueue -619
+enqueue 44
+enqueue 858
+dequeue
+enqueue 758
+enqueue -961
+enqueue 963
+enqueue 45
+enqueue -418
+enqueue -706
+enqueue -528
+enqueue -930
+enqueue -964
+dequeue
+enqueue 194
+dequeue
+enqueue 2
+enqueue -989
+enqueue 224
+enqueue 297
+enqueue 248
+enqueue 897
+enqueue 495
+enqueue -246
+enqueue 774
+enqueue 784
+dequeue
+dequeue
+dequeue
+enqueue 987
+enqueue -440
+enqueue -994
+dequeue
+enqueue 874
+enqueue 131
+enqueue -525
+enqueue 83
+enqueue 928
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 769
+enqueue -831
+enqueue -128
+enqueue 716
+enqueue -240
+dequeue
+enqueue -474
+enqueue -255
+enqueue -810
+enqueue 245
+enqueue 638
+dequeue
+dequeue
+enqueue -215
+enqueue -735
+enqueue 440
+dequeue
+enqueue 835
+enqueue 676
+enqueue 259
+dequeue
+enqueue 111
+enqueue -489
+enqueue 416
+enqueue 146
+enqueue 897
+enqueue 115
+enqueue 869
+dequeue
+dequeue
+enqueue 738
+dequeue
+enqueue 518
+enqueue -85
+enqueue -534
+enqueue 168
+enqueue -844
+enqueue 325
+dequeue
+dequeue
+enqueue 303
+dequeue
+dequeue
+enqueue 774
+dequeue
+enqueue 687
+enqueue 750
+enqueue 538
+dequeue
+enqueue 365
+dequeue
+enqueue 924
+dequeue
+dequeue
+enqueue -120
+enqueue -268
+dequeue
+enqueue 805
+enqueue -952
+enqueue -584
+enqueue -724
+dequeue
+enqueue 845
+enqueue -187
+dequeue
+dequeue
+enqueue 551
+enqueue -90
+enqueue 278
+enqueue -538
+enqueue -543
+dequeue
+enqueue 415
+enqueue 236
+enqueue 704
+dequeue
+enqueue -276
+enqueue 224
+enqueue -494
+enqueue 356
+enqueue -129
+enqueue -472
+enqueue 709
+dequeue
+enqueue -847
+enqueue -742
+enqueue 117
+enqueue 888
+dequeue
+enqueue -620
+enqueue 293
+dequeue
+enqueue 976
+dequeue
+dequeue
+enqueue -123
+enqueue 636
+enqueue -900
+enqueue -332
+enqueue -638
+enqueue 154
+enqueue 909
+enqueue -49
+dequeue
+enqueue -985
+enqueue -409
+enqueue 163
+enqueue -62
+dequeue
+enqueue -389
+enqueue 876
+enqueue -396
+enqueue -821
+dequeue
+enqueue -698
+dequeue
+enqueue -823
+dequeue
+enqueue -757
+enqueue -760
+enqueue -159
+dequeue
+enqueue -935
+enqueue 870
+enqueue 268
+dequeue
+dequeue
+dequeue
+enqueue -92
+enqueue -806
+dequeue
+dequeue
+enqueue -132
+enqueue -910
+dequeue
+enqueue 861
+enqueue -291
+enqueue -945
+enqueue 808
+enqueue 361
+enqueue 97
+enqueue 811
+dequeue
+enqueue -392
+enqueue -403
+enqueue 340
+dequeue
+enqueue 611
+dequeue
+dequeue
+enqueue 597
+enqueue 181
+enqueue 927
+dequeue
+enqueue 394
+enqueue -73
+enqueue -586
+enqueue -186
+dequeue
+dequeue
+enqueue 257
+enqueue 755
+enqueue -403
+dequeue
+enqueue -583
+enqueue -255
+enqueue 421
+dequeue
+enqueue -950
+enqueue 28
+enqueue 901
+enqueue -621
+dequeue
+enqueue 742
+enqueue 515
+enqueue 403
+dequeue
+enqueue 899
+dequeue
+enqueue -963
+enqueue -477
+dequeue
+enqueue -920
+enqueue 136
+enqueue 96
+enqueue 752
+enqueue -637
+enqueue -754
+enqueue 991
+enqueue 937
+dequeue
+enqueue 356
+enqueue 47
+enqueue -949
+enqueue 108
+enqueue -335
+enqueue -730
+enqueue 650
+enqueue 307
+dequeue
+dequeue
+dequeue
+enqueue 68
+enqueue -691
+enqueue 533
+enqueue -856
+enqueue -621
+enqueue -262
+enqueue 528
+enqueue -168
+enqueue -710
+dequeue
+enqueue 9
+enqueue 466
+dequeue
+enqueue 763
+dequeue
+enqueue 197
+enqueue 605
+dequeue
+enqueue 631
+dequeue
+enqueue -544
+enqueue -159
+enqueue -505
+enqueue 734
+dequeue
+dequeue
+enqueue -880
+dequeue
+enqueue -473
+enqueue 113
+enqueue -20
+dequeue
+dequeue
+dequeue
+enqueue -441
+dequeue
+enqueue -540
+enqueue 254
+enqueue 396
+enqueue 868
+dequeue
+dequeue
+enqueue 11
+enqueue -590
+enqueue -482
+enqueue -253
+enqueue -819
+dequeue
+enqueue -965
+enqueue 94
+enqueue -822
+enqueue -348
+dequeue
+dequeue
+dequeue
+enqueue -892
+enqueue -209
+dequeue
+dequeue
+enqueue 764
+enqueue 400
+enqueue -311
+enqueue 197
+enqueue 691
+enqueue 51
+enqueue 770
+dequeue
+enqueue -722
+enqueue 442
+dequeue
+dequeue
+enqueue -592
+enqueue 911
+dequeue
+dequeue
+enqueue 957
+enqueue -139
+enqueue 675
+enqueue -688
+enqueue -415
+dequeue
+enqueue -60
+enqueue -765
+enqueue 753
+enqueue -269
+dequeue
+enqueue -774
+enqueue -118
+enqueue 426
+dequeue
+enqueue -165
+enqueue -703
+dequeue
+enqueue 888
+dequeue
+enqueue -93
+enqueue -175
+dequeue
+enqueue 922
+dequeue
+enqueue -370
+dequeue
+enqueue -854
+enqueue 677
+enqueue -812
+dequeue
+enqueue 620
+dequeue
+enqueue 243
+enqueue 26
+enqueue -288
+dequeue
+enqueue -351
+enqueue 837
+enqueue -775
+dequeue
+enqueue -944
+enqueue 820
+enqueue 188
+enqueue -489
+dequeue
+dequeue
+dequeue
+enqueue 851
+enqueue -329
+dequeue
+enqueue 775
+enqueue 860
+enqueue 15
+dequeue
+enqueue -323
+dequeue
+enqueue 829
+enqueue 739
+enqueue -931
+enqueue -578
+enqueue 971
+enqueue 82
+enqueue -295
+dequeue
+enqueue 907
+dequeue
+enqueue -144
+enqueue -473
+enqueue -249
+enqueue -453
+enqueue 537
+enqueue -518
+enqueue -160
+enqueue 48
+enqueue 204
+enqueue -988
+enqueue -729
+enqueue -771
+enqueue -682
+enqueue -420
+enqueue 979
+dequeue
+dequeue
+dequeue
+enqueue 175
+dequeue
+dequeue
+dequeue
+enqueue 470
+enqueue -398
+enqueue -184
+enqueue 872
+enqueue 767
+dequeue
+enqueue 278
+dequeue
+enqueue 917
+enqueue 930
+enqueue 121
+dequeue
+enqueue 598
+dequeue
+dequeue
+enqueue 530
+enqueue 697
+enqueue 228
+enqueue -978
+dequeue
+enqueue 766
+dequeue
+dequeue
+enqueue -592
+enqueue -909
+enqueue -182
+enqueue -920
+enqueue 609
+enqueue 474
+enqueue -668
+dequeue
+enqueue -388
+enqueue -932
+dequeue
+enqueue -449
+dequeue
+enqueue -844
+enqueue 62
+enqueue -807
+dequeue
+enqueue 304
+enqueue -196
+enqueue -484
+dequeue
+enqueue -564
+enqueue -665
+enqueue 485
+enqueue -45
+enqueue -215
+enqueue -186
+dequeue
+enqueue 50
+enqueue -204
+enqueue 220
+enqueue 869
+enqueue 507
+enqueue -147
+enqueue -102
+dequeue
+enqueue -398
+enqueue -24
+enqueue 601
+dequeue
+enqueue -18
+enqueue 77
+enqueue -923
+dequeue
+enqueue 440
+enqueue 825
+enqueue -745
+enqueue 94
+dequeue
+enqueue -762
+dequeue
+enqueue -216
+enqueue 179
+enqueue -787
+enqueue -21
+enqueue 77
+enqueue 878
+enqueue -436
+dequeue
+dequeue
+enqueue 733
+dequeue
+dequeue
+enqueue -382
+enqueue -22
+enqueue 714
+enqueue -916
+enqueue -522
+enqueue -285
+enqueue -369
+enqueue 973
+dequeue
+enqueue 341
+enqueue 94
+enqueue 463
+dequeue
+dequeue
+enqueue -895
+enqueue 152
+dequeue
+dequeue
+enqueue -396
+dequeue
+enqueue 398
+dequeue
+dequeue
+dequeue
+enqueue -379
+enqueue 509
+dequeue
+enqueue -466
+enqueue 904
+dequeue
+enqueue 784
+enqueue 987
+dequeue
+enqueue 792
+enqueue -368
+dequeue
+enqueue 654
+enqueue -9
+enqueue 91
+enqueue 999
+enqueue 904
+enqueue -83
+enqueue 794
+enqueue 665
+dequeue
+enqueue -688
+enqueue 992
+enqueue -539
+enqueue 517
+enqueue -658
+enqueue 119
+enqueue 233
+enqueue -565
+enqueue 831
+dequeue
+enqueue -100
+enqueue 453
+dequeue
+enqueue 502
+enqueue -751
+dequeue
+enqueue -637
+enqueue 938
+enqueue -787
+dequeue
+dequeue
+enqueue -981
+enqueue 553
+dequeue
+dequeue
+dequeue
+enqueue 682
+enqueue -620
+dequeue
+enqueue -891
+enqueue -698
+dequeue
+enqueue -47
+dequeue
+enqueue -820
+enqueue 631
+enqueue 640
+dequeue
+enqueue -366
+dequeue
+enqueue -443
+dequeue
+enqueue -979
+dequeue
+enqueue 541
+enqueue 620
+dequeue
+enqueue 102
+enqueue 732
+enqueue -207
+dequeue
+enqueue 44
+enqueue -443
+enqueue 432
+enqueue -938
+enqueue -168
+enqueue -539
+enqueue 959
+enqueue -435
+enqueue -770
+enqueue 924
+dequeue
+dequeue
+enqueue -805
+enqueue -193
+dequeue
+enqueue 948
+dequeue
+enqueue 358
+enqueue 40
+enqueue 174
+enqueue -608
+dequeue
+enqueue -961
+enqueue -923
+enqueue -913
+enqueue 526
+dequeue
+dequeue
+enqueue -285
+enqueue 918
+enqueue 683
+enqueue 778
+dequeue
+dequeue
+enqueue 891
+dequeue
+enqueue -667
+dequeue
+enqueue 870
+enqueue 641
+enqueue -520
+enqueue 482
+enqueue -599
+enqueue 649
+enqueue -556
+enqueue 16
+enqueue -584
+dequeue
+enqueue -924
+enqueue 223
+dequeue
+dequeue
+enqueue -877
+enqueue 216
+enqueue 826
+dequeue
+enqueue -196
+dequeue
+enqueue 809
+enqueue 240
+dequeue
+dequeue
+enqueue 680
+dequeue
+enqueue 640
+enqueue -937
+dequeue
+enqueue 197
+enqueue -196
+enqueue 256
+enqueue -847
+enqueue -822
+enqueue 543
+enqueue 818
+enqueue 492
+enqueue 647
+enqueue -337
+enqueue -431
+enqueue 319
+enqueue 460
+enqueue -690
+dequeue
+dequeue
+dequeue
+enqueue 827
+enqueue -100
+enqueue -632
+enqueue 305
+dequeue
+enqueue -199
+enqueue 490
+enqueue -172
+enqueue 784
+enqueue 659
+enqueue 338
+enqueue 551
+enqueue -580
+enqueue -993
+enqueue 915
+dequeue
+enqueue 8
+enqueue 589
+dequeue
+enqueue -638
+enqueue 436
+enqueue -777
+enqueue -1
+dequeue
+enqueue 170
+dequeue
+enqueue -667
+enqueue 270
+dequeue
+enqueue -188
+enqueue -342
+enqueue 489
+enqueue -860
+dequeue
+enqueue 527
+enqueue -421
+dequeue
+enqueue 944
+dequeue
+dequeue
+dequeue
+enqueue -264
+enqueue -93
+enqueue -334
+dequeue
+enqueue -443
+enqueue 144
+enqueue -601
+dequeue
+enqueue -487
+enqueue 286
+enqueue 176
+enqueue 802
+enqueue 698
+dequeue
+enqueue -672
+enqueue 900
+dequeue
+dequeue
+dequeue
+enqueue 425
+dequeue
+enqueue -849
+enqueue 346
+enqueue 346
+dequeue
+enqueue 320
+dequeue
+dequeue
+dequeue
+enqueue 821
+enqueue -758
+enqueue -162
+enqueue 577
+enqueue 113
+enqueue 670
+enqueue -921
+enqueue -426
+enqueue 951
+enqueue -89
+enqueue 45
+enqueue -90
+dequeue
+enqueue 634
+enqueue 48
+enqueue 55
+enqueue -879
+enqueue -149
+dequeue
+dequeue
+enqueue -694
+enqueue -980
+enqueue -705
+enqueue -874
+enqueue 233
+enqueue -758
+enqueue 907
+enqueue 12
+dequeue
+enqueue -243
+dequeue
+dequeue
+dequeue
+enqueue -439
+enqueue 0
+enqueue 226
+enqueue 583
+enqueue 642
+dequeue
+enqueue 978
+dequeue
+enqueue 919
+enqueue -437
+enqueue -894
+dequeue
+enqueue -179
+enqueue 513
+enqueue 318
+enqueue -865
+dequeue
+enqueue 399
+enqueue 213
+dequeue
+enqueue 47
+dequeue
+enqueue -936
+enqueue 773
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue -155
+dequeue
+enqueue 142
+dequeue
+enqueue -246
+enqueue -758
+dequeue
+enqueue -747
+enqueue 725
+dequeue
+enqueue 167
+enqueue -454
+enqueue 485
+enqueue 643
+dequeue
+enqueue -180
+dequeue
+enqueue -691
+dequeue
+enqueue 787
+enqueue -366
+enqueue -872
+dequeue
+enqueue -1000
+enqueue 803
+enqueue -27
+enqueue -674
+enqueue -890
+enqueue -994
+enqueue -116
+enqueue -251
+enqueue 870
+dequeue
+enqueue 862
+enqueue -769
+dequeue
+dequeue
+dequeue
+enqueue -685
+enqueue -576
+enqueue 904
+dequeue
+dequeue
+dequeue
+enqueue -413
+enqueue 128
+enqueue 394
+dequeue
+dequeue
+enqueue -360
+enqueue 937
+dequeue
+dequeue
+enqueue 638
+enqueue 287
+dequeue
+enqueue -332
+dequeue
+dequeue
+enqueue 568
+enqueue 505
+dequeue
+dequeue
+enqueue -784
+enqueue 846
+enqueue -965
+enqueue -60
+dequeue
+dequeue
+enqueue -739
+enqueue 935
+enqueue -845
+enqueue -481
+enqueue 667
+enqueue 48
+dequeue
+enqueue -941
+dequeue
+enqueue 798
+dequeue
+enqueue -74
+enqueue 553
+enqueue 758
+enqueue 166
+dequeue
+dequeue
+enqueue 55
+dequeue
+enqueue -758
+enqueue -729
+dequeue
+enqueue -634
+enqueue -423
+enqueue -453
+enqueue 234
+enqueue -873
+enqueue 540
+enqueue 155
+dequeue
+enqueue -142
+enqueue -939
+enqueue -522
+enqueue 646
+enqueue -717
+enqueue 93
+enqueue -385
+enqueue 53
+dequeue
+enqueue -438
+enqueue 447
+enqueue -302
+enqueue -76
+enqueue -316
+dequeue
+enqueue 547
+enqueue 508
+enqueue 166
+enqueue -807
+enqueue 602
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue -579
+enqueue 411
+dequeue
+dequeue
+enqueue -157
+enqueue 667
+dequeue
+enqueue 434
+dequeue
+enqueue 235
+enqueue 788
+dequeue
+enqueue -532
+enqueue 158
+enqueue 963
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue -249
+enqueue -475
+enqueue 301
+dequeue
+dequeue
+enqueue 622
+enqueue -236
+enqueue -873
+enqueue -727
+enqueue 664
+dequeue
+enqueue 815
+enqueue -568
+enqueue 725
+dequeue
+dequeue
+enqueue 367
+enqueue -114
+enqueue 723
+dequeue
+dequeue
+enqueue -147
+enqueue -172
+enqueue -921
+enqueue 187
+enqueue -942
+enqueue -793
+dequeue
+enqueue -957
+enqueue 747
+enqueue 0
+enqueue 511
+enqueue -649
+enqueue 665
+enqueue -765
+enqueue -304
+enqueue -209
+dequeue
+enqueue -558
+dequeue
+enqueue -44
+dequeue
+enqueue -480
+enqueue 134
+enqueue -160
+enqueue -627
+enqueue 847
+enqueue -576
+enqueue -837
+enqueue 37
+dequeue
+enqueue -475
+dequeue
+enqueue -920
+enqueue 781
+dequeue
+enqueue -856
+enqueue -370
+enqueue -846
+enqueue -758
+enqueue -287
+enqueue 634
+enqueue -206
+dequeue
+enqueue 201
+dequeue
+enqueue -69
+enqueue 146
+dequeue
+enqueue -917
+enqueue 901
+enqueue -756
+enqueue -438
+dequeue
+enqueue -222
+dequeue
+dequeue
+enqueue 702
+enqueue 749
+enqueue 871
+enqueue -589
+dequeue
+enqueue -695
+dequeue
+enqueue 605
+dequeue
+enqueue 464
+enqueue 837
+dequeue
+enqueue -579
+dequeue
+enqueue -910
+enqueue 218
+dequeue
+enqueue 201
+dequeue
+enqueue 424
+enqueue -951
+enqueue 894
+dequeue
+enqueue 648
+enqueue 468
+dequeue
+enqueue -935
+enqueue -359
+dequeue
+dequeue
+front
+dequeue
+enqueue -524
+enqueue 262
+enqueue 87
+enqueue 450
+enqueue 622
+dequeue
+enqueue 173
+dequeue
+enqueue 720
+enqueue -408
+dequeue
+enqueue 773
+enqueue -673
+enqueue 559
+enqueue -115
+enqueue -894
+enqueue -166
+enqueue -696
+enqueue 591
+enqueue 760
+enqueue 269
+enqueue 790
+enqueue -32
+enqueue 531
+dequeue
+enqueue -136
+enqueue 61
+enqueue 367
+enqueue 303
+dequeue
+dequeue
+enqueue 116
+dequeue
+enqueue 833
+enqueue -627
+enqueue 156
+enqueue -622
+dequeue
+enqueue -918
+enqueue 850
+enqueue -783
+enqueue -913
+enqueue 630
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue -79
+enqueue -253
+dequeue
+enqueue -272
+enqueue -293
+enqueue 23
+enqueue 805
+dequeue
+enqueue 247
+enqueue -536
+enqueue 649
+enqueue 488
+enqueue -952
+enqueue 798
+enqueue -324
+enqueue -683
+enqueue -45
+enqueue -733
+enqueue -155
+enqueue -387
+enqueue 914
+dequeue
+enqueue 552
+enqueue 839
+enqueue -228
+dequeue
+dequeue
+enqueue 812
+dequeue
+enqueue -85
+dequeue
+enqueue -299
+enqueue -428
+enqueue -269
+enqueue 509
+dequeue
+enqueue 16
+enqueue -451
+enqueue 431
+dequeue
+enqueue -717
+enqueue -975
+enqueue -260
+enqueue -339
+enqueue 438
+enqueue -376
+dequeue
+dequeue
+enqueue 889
+enqueue 577
+enqueue -803
+dequeue
+enqueue 96
+enqueue -653
+enqueue 882
+enqueue 64
+enqueue 883
+enqueue -293
+enqueue 261
+enqueue -834
+enqueue 419
+enqueue 390
+dequeue
+dequeue
+enqueue 7
+enqueue -925
+enqueue 637
+enqueue 425
+dequeue
+dequeue
+enqueue -300
+enqueue -209
+dequeue
+enqueue -97
+dequeue
+dequeue
+enqueue -148
+enqueue -803
+dequeue
+dequeue
+enqueue -990
+dequeue
+dequeue
+enqueue -991
+enqueue 324
+enqueue 226
+dequeue
+enqueue -737
+enqueue 846
+enqueue -973
+dequeue
+dequeue
+enqueue -778
+enqueue 107
+enqueue 56
+enqueue -608
+enqueue 144
+dequeue
+dequeue
+enqueue -383
+dequeue
+enqueue -180
+enqueue -597
+enqueue -701
+enqueue 816
+enqueue -13
+enqueue -606
+enqueue -27
+dequeue
+enqueue 36
+dequeue
+enqueue -766
+enqueue -241
+enqueue -665
+enqueue 804
+enqueue -767
+dequeue
+enqueue -10
+enqueue -45
+dequeue
+enqueue 791
+enqueue -70
+dequeue
+enqueue 191
+dequeue
+dequeue
+enqueue 306
+enqueue 796
+dequeue
+enqueue 955
+dequeue
+enqueue 981
+dequeue
+dequeue
+dequeue
+enqueue -324
+dequeue
+enqueue -361
+enqueue -168
+enqueue 804
+dequeue
+enqueue 340
+dequeue
+enqueue -184
+enqueue -322
+enqueue -792
+enqueue -958
+enqueue -348
+dequeue
+enqueue -868
+enqueue -285
+enqueue -939
+dequeue
+enqueue -670
+enqueue -680
+enqueue -417
+enqueue 628
+dequeue
+enqueue -187
+dequeue
+enqueue -99
+enqueue -20
+enqueue -713
+dequeue
+enqueue -906
+enqueue -658
+enqueue -625
+enqueue -803
+enqueue -352
+enqueue 603
+enqueue 48
+enqueue 785
+enqueue 388
+dequeue
+enqueue -909
+dequeue
+dequeue
+enqueue 269
+enqueue 669
+enqueue -684
+dequeue
+enqueue 381
+enqueue 553
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue -26
+enqueue 8
+enqueue 499
+enqueue -674
+enqueue 223
+dequeue
+enqueue 708
+dequeue
+enqueue 149
+enqueue 698
+dequeue
+enqueue -953
+dequeue
+enqueue -434
+enqueue -953
+enqueue 9
+dequeue
+enqueue -28
+dequeue
+dequeue
+enqueue 9
+enqueue -643
+dequeue
+enqueue -846
+enqueue 281
+dequeue
+enqueue 249
+enqueue -507
+enqueue -660
+dequeue
+enqueue -574
+enqueue 509
+dequeue
+enqueue 495
+enqueue -383
+enqueue -34
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 650
+dequeue
+enqueue -894
+enqueue -958
+dequeue
+enqueue -557
+enqueue -547
+enqueue -808
+enqueue -649
+enqueue -185
+enqueue -256
+dequeue
+dequeue
+enqueue 439
+enqueue 406
+enqueue 836
+enqueue 233
+dequeue
+enqueue 758
+enqueue -422
+enqueue 141
+dequeue
+dequeue
+enqueue 182
+dequeue
+dequeue
+enqueue -398
+enqueue -615
+dequeue
+enqueue 627
+enqueue 143
+enqueue 754
+dequeue
+enqueue -839
+enqueue -308
+enqueue -106
+enqueue 808
+enqueue -679
+enqueue -76
+enqueue -908
+enqueue 134
+enqueue 849
+enqueue -363
+enqueue 4
+dequeue
+enqueue 506
+enqueue 956
+enqueue -754
+dequeue
+enqueue -165
+enqueue -982
+enqueue 420
+enqueue 163
+enqueue -448
+dequeue
+enqueue 445
+dequeue
+dequeue
+enqueue -756
+enqueue 658
+dequeue
+dequeue
+enqueue 321
+enqueue 741
+enqueue 651
+enqueue 465
+enqueue 427
+enqueue 238
+enqueue 818
+enqueue 457
+enqueue 207
+enqueue -271
+dequeue
+dequeue
+enqueue 693
+enqueue -419
+enqueue -68
+dequeue
+enqueue 816
+dequeue
+enqueue -706
+enqueue -961
+dequeue
+enqueue -168
+dequeue
+enqueue -147
+enqueue -854
+dequeue
+enqueue -4
+enqueue -473
+dequeue
+dequeue
+dequeue
+enqueue -512
+enqueue -435
+dequeue
+enqueue -515
+enqueue -305
+dequeue
+enqueue -736
+enqueue -396
+dequeue
+enqueue 320
+dequeue
+dequeue
+enqueue -599
+enqueue 72
+enqueue -596
+dequeue
+dequeue
+enqueue -876
+enqueue 448
+enqueue 80
+enqueue -105
+enqueue 972
+enqueue -971
+dequeue
+dequeue
+enqueue 405
+dequeue
+enqueue 281
+enqueue 801
+dequeue
+dequeue
+enqueue -45
+dequeue
+enqueue 363
+enqueue 222
+enqueue -714
+enqueue 894
+enqueue 240
+enqueue 54
+enqueue -541
+enqueue 278
+enqueue -127
+enqueue 625
+dequeue
+enqueue 580
+enqueue 940
+enqueue -604
+enqueue 6
+enqueue 151
+enqueue -612
+dequeue
+dequeue
+enqueue 179
+enqueue 230
+dequeue
+enqueue 368
+dequeue
+enqueue -684
+enqueue -822
+enqueue -247
+enqueue -99
+dequeue
+enqueue 853
+enqueue -862
+enqueue -859
+dequeue
+enqueue 814
+enqueue 315
+enqueue 808
+enqueue -358
+dequeue
+enqueue -177
+enqueue 627
+enqueue -294
+enqueue 925
+enqueue 630
+enqueue 338
+enqueue 493
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue 646
+enqueue -108
+enqueue -377
+enqueue 926
+enqueue 628
+dequeue
+enqueue -196
+enqueue 714
+enqueue 586
+enqueue -984
+dequeue
+enqueue 879
+enqueue 696
+dequeue
+enqueue -950
+enqueue 808
+enqueue 830
+enqueue 965
+enqueue 521
+dequeue
+enqueue -136
+enqueue -618
+enqueue -495
+dequeue
+dequeue
+enqueue 478
+enqueue -438
+enqueue 665
+enqueue 206
+enqueue -445
+dequeue
+enqueue -515
+enqueue 759
+enqueue 926
+enqueue 295
+dequeue
+enqueue -210
+enqueue 953
+enqueue -913
+dequeue
+dequeue
+enqueue -960
+enqueue 448
+enqueue 815
+enqueue 15
+dequeue
+enqueue -944
+dequeue
+enqueue 458
+enqueue -354
+dequeue
+enqueue 105
+dequeue
+enqueue 644
+enqueue 815
+dequeue
+enqueue 744
+enqueue -233
+dequeue
+enqueue -188
+enqueue -527
+enqueue 750
+dequeue
+dequeue
+enqueue 927
+enqueue 334
+enqueue 57
+dequeue
+dequeue
+dequeue
+enqueue -415
+enqueue -455
+enqueue 110
+enqueue 529
+enqueue 261
+enqueue 124
+dequeue
+dequeue
+dequeue
+dequeue
+enqueue -777
+dequeue
+enqueue -771
+enqueue -788
+enqueue -630
+enqueue 181
+dequeue
+dequeue
+dequeue
+enqueue -599
+enqueue 870
+enqueue -994
+enqueue -503
+dequeue
+enqueue 162
+dequeue
+enqueue 514
+dequeue
+enqueue -523
+enqueue -693
+enqueue -632
+enqueue -912
+enqueue -58
+enqueue 900
+dequeue
+enqueue 984
+enqueue 20
+dequeue
+enqueue -269
+enqueue 712
+dequeue
+enqueue 503
+dequeue
+enqueue 335
