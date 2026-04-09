@@ -35,15 +35,20 @@ void test_from_file(string file_name) {
 
 int main(int argc, char ** argv) {
     
-     // 1. Check if a filename was provided
-    if (argc < 2) {
-        std::cerr << "Usage: " << argv[0] << " <filename>" << std::endl;
-        return 1;
+       // argc == 1 -> ./queue
+  if (argc == 1) {
+        test(); // a method that test queue w/o filename
+        return 0;
+    } 
+    // argc !=2 -> did not include filename
+    else if (argc != 2) {
+        cout << "usage: " << argv[0] << " [commands file name]" << endl;
+        exit(1);
     }
 
-    // 2. Open the file using the argument provided in argv[1]
-    string file_name = argv[1];
-    test_from_file(file_name);
+    // Open the file using the argument provided in argv[1]
+   string file_name = argv[1];
+   test_from_file(file_name);
     
     return 0;
 }
